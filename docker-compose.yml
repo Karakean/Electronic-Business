@@ -8,6 +8,9 @@ services:
     environment:
       MYSQL_DATABASE: prestashop
       MYSQL_ROOT_PASSWORD: prestashop
+    restart: always
+    volumes:
+        - ./dbinit:/docker-entrypoint-initdb.d
     ports:
       - 3306:3306
     networks:

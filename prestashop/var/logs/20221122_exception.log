@@ -3,3 +3,31 @@
 *ERROR* 	v1.7.8.7	2022/11/22 - 22:01:39: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 136 in file classes/db/DbPDO.php
 *ERROR* 	v1.7.8.7	2022/11/22 - 22:01:39: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 136 in file classes/db/DbPDO.php
 *ERROR* 	v1.7.8.7	2022/11/22 - 22:01:39: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 136 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:26:44: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 136 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:27:00: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:27:30: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:27:33: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:28:04: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:28:44: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:28:45: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:29:27: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:29:29: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:30:25: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:31:22: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:32:21: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:32:37: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:32:51: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:32:54: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:33:16: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:36:42: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:36:46: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:37:47: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:37:51: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:38:26: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:40:21: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:41:30: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:41:37: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:42:10: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:44:51: Shop not found at line 422 in file classes/shop/Shop.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 22:58:46: Link to database cannot be established: SQLSTATE[HY000] [1049] Unknown database &#039;prestashop&#039; at line 136 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.8.7	2022/11/22 - 23:00:10: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 136 in file classes/db/DbPDO.php
