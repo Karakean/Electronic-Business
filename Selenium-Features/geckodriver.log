@@ -1608,3 +1608,66 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't fin
 JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
 1670078683029	Marionette	INFO	Stopped listening on port 39403
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670094569244	geckodriver	INFO	Listening on 127.0.0.1:41773
+1670094569747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34923" "-no-remote" "-profile" "/tmp/rust_mozprofileNi5769"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670094571318	Marionette	INFO	Marionette enabled
+1670094571323	Marionette	INFO	Listening on port 39557
+WebDriver BiDi listening on ws://127.0.0.1:34923
+1670094571512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNi5769/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34923/devtools/browser/5817c318-d8e8-4ef4-8633-ca74d90c1c09
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+1670094575999	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+1670097580400	Marionette	INFO	Stopped listening on port 39557
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670097587585	geckodriver	INFO	Listening on 127.0.0.1:38347
+1670097588090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48729" "-no-remote" "-profile" "/tmp/rust_mozprofilecYFOJy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670097588931	Marionette	INFO	Marionette enabled
+1670097588935	Marionette	INFO	Listening on port 33963
+WebDriver BiDi listening on ws://127.0.0.1:48729
+1670097589043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecYFOJy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48729/devtools/browser/08560fba-5d7d-4352-9c38-0d5add680a7d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+1670097591909	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: http://localhost:8080/amdin/themes/default/js/bundle/module/module_card.js?1.7.8.7, line 1: SyntaxError: redeclaration of let moduleCardController
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1670098481801	Marionette	INFO	Stopped listening on port 33963
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670098520114	geckodriver	INFO	Listening on 127.0.0.1:33517
+1670098520119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58515" "-no-remote" "-profile" "/tmp/rust_mozprofilepFbGPk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670098520874	Marionette	INFO	Marionette enabled
+1670098520877	Marionette	INFO	Listening on port 37737
+WebDriver BiDi listening on ws://127.0.0.1:58515
+1670098520988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepFbGPk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58515/devtools/browser/d86a5279-3415-4ba6-8c5f-0a689d9ab65f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+1670098523350	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+JavaScript error: http://localhost:8080/amdin/themes/default/js/bundle/module/module_card.js?1.7.8.7, line 1: SyntaxError: redeclaration of let moduleCardController
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.

@@ -19,7 +19,7 @@ def wait_for(type, name, delay):
     raise
 
 def wait_for_finish():
-  WebDriverWait(driver, 15000).until(EC.element_to_be_clickable((By.ID, "import_close_button")))
+  WebDriverWait(driver, 20000).until(EC.element_to_be_clickable((By.ID, "import_close_button")))
   driver.find_element(By.ID, "import_close_button").click()
 
 def login():
@@ -86,7 +86,15 @@ def importProducts():
   driver.find_element(By.NAME, "submitImportFile").click()
   driver.switch_to.alert.accept()
 
+  # Change one column name
   wait_for(By.ID,"import",20)
+  dropdown = driver.find_element(By.NAME, "type_value[4]")
+  options = Select(dropdown)
+  options.select_by_value("price_tin")
+
+  time.sleep(2)
+  # Final confirm and wait for finish
+  
   final = driver.find_element(By.ID,"import")
   final.location_once_scrolled_into_view
   final.click()

@@ -71,6 +71,9 @@ with open('data.csv', 'w', newline='') as csvfile:
     for idx, item in enumerate(data.values()):
         row = []
 
+        # To totalnie nie musi byc jednolinijkowiec ale chce to doprawadzić do najbardziej nieczytelnego stanu jak umiem
+        categories = ','.join([' '.join([y.replace(',',' &').capitalize() if len(y) > 1 else y.lower() for y in x.split(' ')]) for x in set(item["category"].split('/'))])
+        
         if(not item["without_discount_price"]):
             price = item["price"]
             discount = ""
@@ -78,7 +81,7 @@ with open('data.csv', 'w', newline='') as csvfile:
             price = item["without_discount_price"]
             discount = round(float(price.replace(",",".")) - float(item["price"].replace(",",".")), 2)
 
-        photos = functools.reduce(lambda x, y: f"{x},{y}", item["photos_urls"])
+        photos = ','.join(item["photos_urls"])
 
         # Te wszystkie None są po to żeby kolejność kolumn w prestashopie sie zgadzała
         # Można ich nie dawać ale wtedy trzeba manualnie/webdriverem wybrać co jest czym
@@ -87,7 +90,7 @@ with open('data.csv', 'w', newline='') as csvfile:
         row.append(idx+1) #ID
         row.append(1) #Aktywny
         row.append(item["name"]) #Nazwa
-        row.append("TataKobasa") #Kategoria
+        row.append(categories) #Kategoria
         row.append(price) #Cena (netto)
         row.append(1)
         row.append(None)
@@ -145,8 +148,8 @@ with open('data.csv', 'w', newline='') as csvfile:
         
 
         # Stopper po 50 produktach bo to strasznie długo sie ładuje jak dam całą baze
-        if(idx == 50):
-            break
+        # if(idx == 50):
+        #     break
 
 
         writer.writerow(row)
