@@ -1,0 +1,51 @@
+"ID";"Aktywny (0 lub 1)";"Nazwa";"Kategorie (x,y,z...)";"Cena bez podatku. (netto)";"ID reguły podatku";"Koszt własny";"W sprzedaży (0 lub 1)"
+1;1;"Puchowa parka z kapturem";"TataKobasa";"1099,90";1;"";1
+2;1;"Puchowa parka z kapturem";"TataKobasa";"1099,90";1;"";1
+3;1;"VISTULA|PZPN - Wełniana kurtka typu bomber";"TataKobasa";"1599,90";1;"";1
+4;1;"Puchowa kurtka";"TataKobasa";"999,90";1;"";1
+5;1;"Puchowa parka z kapturem";"TataKobasa";"1099,90";1;"";1
+6;1;"Puchowa parka z kapturem";"TataKobasa";"1099,90";1;"";1
+7;1;"Puchowa kurtka z kapturem";"TataKobasa";"1099,90";1;"";1
+8;1;"Sportowa kurtka z łączonych materiałów";"TataKobasa";"699,90";1;"";1
+9;1;"Kurtka z wypełnieniem z recyklingu";"TataKobasa";"799,90";1;"";1
+10;1;"Puchowa kurtka z kapturem";"TataKobasa";"599,90";1;"";1
+11;1;"Puchowa kurtka z kapturem";"TataKobasa";"599,90";1;"";1
+12;1;"Parka z technicznej tkaniny";"TataKobasa";"799,90";1;"";1
+13;1;"Parka z technicznej tkaniny";"TataKobasa";"799,90";1;"";1
+14;1;"Parka z technicznej tkaniny";"TataKobasa";"799,90";1;"";1
+15;1;"Dwurzędowa kurtka";"TataKobasa";"1199,90";1;"";1
+16;1;"Dwurzędowa kurtka";"TataKobasa";"1199,90";1;"";1
+17;1;"Krótka puchowa parka";"TataKobasa";"999,90";1;"";1
+18;1;"Puchowa kurtka ze stójką";"TataKobasa";"799,90";1;"";1
+19;1;"Puchowa kurtka ze stójką";"TataKobasa";"799,90";1;"";1
+20;1;"Puchowa kurtka ze stójką";"TataKobasa";"799,90";1;"";1
+21;1;"Puchowa bomberka pikowana";"TataKobasa";"599,90";1;"";1
+22;1;"Puchowa bomberka pikowana";"TataKobasa";"599,90";1;"";1
+23;1;"Parka z kapturem";"TataKobasa";"699,90";1;"";1
+24;1;"Krótka puchowa kurtka";"TataKobasa";"999,90";1;"";1
+25;1;"Skórzana kurtka ze stójką";"TataKobasa";"1499,90";1;"";1
+26;1;"Skórzana kurtka z pikowaniem";"TataKobasa";"1799,90";1;"";1
+27;1;"Skórzana kurtka ze stójką";"TataKobasa";"1499,90";1;"";1
+28;1;"Skórzana kurtka";"TataKobasa";"1699,90";1;"";1
+29;1;"Jeansowa kurtka";"TataKobasa";"649,90";1;"";1
+30;1;"Jednorzędowy płaszcz";"TataKobasa";"1299,90";1;"";1
+31;1;"Jednorzędowy płaszcz";"TataKobasa";"1299,90";1;"";1
+32;1;"Płaszcz z gładkiej tkaniny";"TataKobasa";"799,90";1;"";1
+33;1;"Luźny płaszcz w kratę";"TataKobasa";"1199,90";1;"";1
+34;1;"Płaszcz w delikatny deseń";"TataKobasa";"1299,90";1;"";1
+35;1;"Ocieplany płaszcz z domieszką wełny";"TataKobasa";"1299,90";1;"";1
+36;1;"Płaszcz w delikatny deseń";"TataKobasa";"1299,90";1;"";1
+37;1;"Klasyczny płaszcz w kratę";"TataKobasa";"1499,90";1;"";1
+38;1;"Klasyczny płaszcz w kratę";"TataKobasa";"1499,90";1;"";1
+39;1;"Płaszcz w delikatny deseń";"TataKobasa";"1299,90";1;"";1
+40;1;"Jednorzędowy płaszcz w pepitę";"TataKobasa";"999,90";1;"";1
+41;1;"Płaszcz z tkaniny technicznej";"TataKobasa";"1299,90";1;"";1
+42;1;"VISTULA|PZPN - Polo z wełny merino";"TataKobasa";"299,90";1;"";1
+43;1;"Wełniany sweter z dodatkiem jedwabiu";"TataKobasa";"299,90";1;"";1
+44;1;"Wełniany sweter z dodatkiem jedwabiu";"TataKobasa";"299,90";1;"";1
+45;1;"Sweter o warkoczowym spocie";"TataKobasa";"349,90";1;"";1
+46;1;"Strukturalny sweter z melanżowej dzianiny";"TataKobasa";"299,90";1;"";1
+47;1;"Wełniany sweter typu round-neck w prążek";"TataKobasa";"379,90";1;"";1
+48;1;"Wełniany sweter typu round-neck w prążek";"TataKobasa";"379,90";1;"";1
+49;1;"Wełniany sweter z dodatkiem poliamidu i jedwabiu";"TataKobasa";"279,90";1;"";1
+50;1;"Wełniany sweter z dodatkiem poliamidu i jedwabiu";"TataKobasa";"279,90";1;"";1

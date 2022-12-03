@@ -23,9 +23,8 @@ class Product:
         self.photos_urls = list()
         self.size = list()
 
-
-PATH = "C:\\Drive\\chromeDriver\\chromedriver.exe"
-driver = webdriver.Chrome(PATH)
+# USTAW TUTAJ TAKI DRIVER JAKI MASZ NA PC
+driver = webdriver.Firefox()
 
 SHOP_PATH = "https://vistula.pl/"
 SUBPAGES = ['mezczyzna', 'kobieta']
