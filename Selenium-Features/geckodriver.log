@@ -1671,3 +1671,5 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: http://l
 JavaScript error: http://localhost:8080/amdin/themes/default/js/bundle/module/module_card.js?1.7.8.7, line 1: SyntaxError: redeclaration of let moduleCardController
 JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1670100809810	Marionette	INFO	Stopped listening on port 37737
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

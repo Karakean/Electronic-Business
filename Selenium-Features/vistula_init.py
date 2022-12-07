@@ -51,22 +51,32 @@ def gotoImport():
   driver.find_element(By.LINK_TEXT, "Importuj").click()
   return
 
-def importProducts():
-  # Change to "Produkty"
+def selectImportMode(mode):
   print("wait")
   wait_for(By.ID, "entity", 50) # Has really long wait times, often timeouts
   dropMenu = driver.find_element(By.ID, "entity")
   options = Select(dropMenu)
-  options.select_by_value("1")
+  options.select_by_value(mode)
 
   # Choose file
   wait_for(By.ID, "file",20)
   upload = driver.find_element(By.ID, "file")
   upload.location_once_scrolled_into_view
   driver.execute_script("window.scrollBy(0, -50);")
+  return upload
 
+def importCategories():
+  upload = selectImportMode("2")
+
+  upload.send_keys("/home/kulpas/Studia/Biznes/Electronic-Business/Selenium-Features/data_category.csv")
+  #TUTAJ ŚCIEŻKA NA PLIK  ^^^^^^^^^^^^^^^^^^^
  
-  upload.send_keys("/home/kulpas/Studia/Biznes/Electronic-Business/Selenium-Features/data.csv")
+  time.sleep(15)
+
+def importProducts():
+  upload = selectImportMode("1")
+
+  upload.send_keys("/home/kulpas/Studia/Biznes/Electronic-Business/Selenium-Features/data_product.csv")
   #TUTAJ ŚCIEŻKA NA PLIK  ^^^^^^^^^^^^^^^^^^^
  
   time.sleep(15)
@@ -101,6 +111,14 @@ def importProducts():
   wait_for_finish()
   return
 
+def importCombinations():
+  upload = selectImportMode("2")
+
+  upload.send_keys("/home/kulpas/Studia/Biznes/Electronic-Business/Selenium-Features/data_combination.csv")
+  #TUTAJ ŚCIEŻKA NA PLIK  ^^^^^^^^^^^^^^^^^^^
+ 
+  time.sleep(15)
+
 driver = webdriver.Firefox()
 driver.maximize_window()
 
@@ -108,4 +126,6 @@ driver.get("http://localhost:8080/amdin/")
 
 login()
 gotoImport()
-importProducts()
+importCategories()
+#importProducts()
+#importCombinations()

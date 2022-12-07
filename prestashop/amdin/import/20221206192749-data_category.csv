@@ -1,0 +1,81 @@
+"ID";"Aktywny (0 lub 1)";"Nazwa*";"Kategoria nadrzędna";"Główna kategoria (0/1)"
+3;1;"Mezczyzna";"";0
+4;1;"Kurtki & Płaszcze";"Mezczyzna";0
+5;1;"Kurtki i Kurtki Puchowe";"Kurtki & Płaszcze";0
+6;1;"Kurtki Skórzane";"Kurtki & Płaszcze";0
+7;1;"Jeans";"Kurtki & Płaszcze";0
+8;1;"Płaszcze i Trencze";"Kurtki & Płaszcze";0
+9;1;"Swetry";"Mezczyzna";0
+10;1;"Kardigany";"Swetry";0
+11;1;"Golfy";"Swetry";0
+12;1;"Jeansy";"Mezczyzna";0
+13;1;"Spodnie";"Mezczyzna";0
+14;1;"Spodnie Tkaninowe";"Spodnie";0
+15;1;"Bluzy i Komplety Dresowe";"Mezczyzna";0
+16;1;"Basic";"Bluzy i Komplety Dresowe";0
+17;1;"z Kapturem";"Bluzy i Komplety Dresowe";0
+18;1;"Komplety Dresowe";"Bluzy i Komplety Dresowe";0
+19;1;"Spodnie Dresowe";"Bluzy i Komplety Dresowe";0
+20;1;"Garnitury i Komplety";"Mezczyzna";0
+21;1;"Garnitury";"Garnitury i Komplety";0
+22;1;"Komplety- Marynarki i Spodnie";"Garnitury i Komplety";0
+23;1;"Kamizelki";"Garnitury i Komplety";0
+24;1;"Marynarki";"Mezczyzna";0
+25;1;"Koszule";"Mezczyzna";0
+26;1;"T-shirty";"Mezczyzna";0
+27;1;"Gładkie";"T-shirty";0
+28;1;"z Nadrukiem";"T-shirty";0
+29;1;"Koszulki Polo";"Mezczyzna";0
+30;1;"Gładkie";"Koszulki Polo";0
+31;1;"Buty";"Mezczyzna";0
+32;1;"Sportowe";"Buty";0
+33;1;"Casual";"Buty";0
+34;1;"Zimowe";"Buty";0
+35;1;"Eleganckie";"Buty";0
+36;1;"Torby i Plecaki";"Mezczyzna";0
+37;1;"Teczki";"Torby i Plecaki";0
+38;1;"Torby";"Torby i Plecaki";0
+39;1;"Walizki";"Torby i Plecaki";0
+40;1;"Akcesoria Meskie";"Mezczyzna";0
+41;1;"Bielizna";"Akcesoria Meskie";0
+42;1;"Bransoletki";"Akcesoria Meskie";0
+43;1;"Czapki";"Akcesoria Meskie";0
+44;1;"Krawaty";"Akcesoria Meskie";0
+45;1;"Muchy";"Akcesoria Meskie";0
+46;1;"Paski";"Akcesoria Meskie";0
+47;1;"Perfumy";"Akcesoria Meskie";0
+48;1;"Portfele";"Akcesoria Meskie";0
+49;1;"Poszetki";"Akcesoria Meskie";0
+50;1;"Rękawiczki";"Akcesoria Meskie";0
+51;1;"Skarpety";"Akcesoria Meskie";0
+52;1;"Spinki Do Mankietów";"Akcesoria Meskie";0
+53;1;"Szale";"Akcesoria Meskie";0
+54;1;"Szelki";"Akcesoria Meskie";0
+55;1;"Inne";"Akcesoria Meskie";0
+56;1;"Kobieta";"";0
+57;1;"Kurtki & Płaszcze";"Kobieta";0
+58;1;"Swetry";"Kobieta";0
+59;1;"z Krótkim Rękawem";"Swetry";0
+60;1;"Jeansy";"Kobieta";0
+61;1;"Spodnie";"Kobieta";0
+62;1;"Bluzy i Komplety Dresowe";"Kobieta";0
+63;1;"Garnitury i Komplety";"Kobieta";0
+64;1;"Marynarki";"Garnitury i Komplety";0
+65;1;"Spódnice";"Garnitury i Komplety";0
+66;1;"Spodnie i Spodenki";"Garnitury i Komplety";0
+67;1;"Marynarki";"Kobieta";0
+68;1;"Koszule i Bluzki";"Kobieta";0
+69;1;"Koszule";"Koszule i Bluzki";0
+70;1;"Bluzki";"Koszule i Bluzki";0
+71;1;"Sukienki";"Kobieta";0
+72;1;"Mini";"Sukienki";0
+73;1;"Midi";"Sukienki";0
+74;1;"Buty";"Kobieta";0
+75;1;"Na Obcasie";"Buty";0
+76;1;"Na Płaskiej Podeszwie";"Buty";0
+77;1;"Kozaki i Botki";"Buty";0
+78;1;"Akcesoria Damskie";"Kobieta";0
+79;1;"Torebki";"Akcesoria Damskie";0
+80;1;"Paski";"Akcesoria Damskie";0
+81;1;"Czapki i Kapelusze";"Akcesoria Damskie";0
+82;1;"Rękawiczki";"Akcesoria Damskie";0

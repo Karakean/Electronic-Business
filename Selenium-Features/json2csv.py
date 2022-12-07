@@ -2,14 +2,32 @@
 
 import json
 import csv
-import functools
 import random
+
+def clean_name(s):
+    def clean_word(s):
+        return s.replace(',',' &').capitalize() if len(s) > 1 else s.lower()
+    
+    return ' '.join([clean_word(y) for y in s.split(' ')])
+
+def clean_catpath(cats):
+    cats = cats.split("/")
+    if cats[0] == "MEZCZYZNA":
+        for i in range(1, len(cats)):
+            cats[i] += " (MESKIE)"
+
+    if cats[0] == "KOBIETA":
+        for i in range(1, len(cats)):
+            cats[i] += " (DAMSKIE)"
+
+    return "/".join(cats)
+    
 
 jf = open('data.json')
 data = json.load(jf)
 jf.close()
 
-with open('data.csv', 'w', newline='') as csvfile:
+with open('data_product.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile, delimiter=';',quoting=csv.QUOTE_NONNUMERIC,escapechar='$')
 
     writer.writerow([
@@ -71,9 +89,12 @@ with open('data.csv', 'w', newline='') as csvfile:
     for idx, item in enumerate(data.values()):
         row = []
 
-        # To totalnie nie musi byc jednolinijkowiec ale chce to doprawadzić do najbardziej nieczytelnego stanu jak umiem
-        categories = ','.join([' '.join([y.replace(',',' &').capitalize() if len(y) > 1 else y.lower() for y in x.split(' ')]) for x in set(item["category"].split('/'))])
-        
+
+        #categories = ','.join([' '.join([clean_name(y) for y in x.split(' ')]) for x in set(item["category"].split('/'))])
+        categories = clean_catpath(item["category"])
+        categories = "/".join([clean_name(x) for x in categories.split("/")])
+
+
         if(not item["without_discount_price"]):
             price = item["price"]
             discount = ""
@@ -154,3 +175,97 @@ with open('data.csv', 'w', newline='') as csvfile:
 
         writer.writerow(row)
 
+with open('data_category.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile, delimiter=';',quoting=csv.QUOTE_NONNUMERIC,escapechar='$')
+
+    writer.writerow([
+        "ID",
+        "Aktywny (0 lub 1)",
+        "Nazwa*",
+        "Kategoria nadrzędna",
+        "Główna kategoria (0/1)",
+    ])
+
+    category_set = set()
+    id_counter = 3 # ID, 1 i 2 to root i homepage (lub odwrotnie idk)
+
+    def isUnique(w):
+        global category_set
+        if w not in category_set:
+            category_set.add(w)
+            return True
+        else:
+            return False
+    
+    def write_cat(word):
+        global writer, id_counter
+
+        parent, child = word.split("/")
+        if parent == child:
+            return
+
+        row = []
+
+        row.append(id_counter) # ID, 1 i 2 to root i homepage (lub odwrotnie idk)
+        row.append(1) # Aktywny
+        row.append(child) # Nazwa
+        row.append(parent) # Kat. Nadrzędna
+        row.append(0) # Główna kategoria
+
+        writer.writerow(row)
+
+        id_counter += 1
+
+    for idx, item in enumerate(data.values()):
+        cats = item["category"]
+        
+        cats = clean_catpath(cats)
+
+        cats = [clean_name(x) for x in cats.split("/")]
+        word = "/"+cats[0]
+        if isUnique(word):
+            write_cat(word)
+
+
+        for i in range(len(cats)-1):
+            word = cats[i]+"/"+cats[i+1]  
+            if isUnique(word):
+                write_cat(word)
+
+    
+
+
+
+with open('data_combination.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile, delimiter=';',quoting=csv.QUOTE_NONNUMERIC,escapechar='$')
+
+    writer.writerow([
+        "Identyfikator Produktu (ID)",
+        "Indeks produktu", #filler
+        "Atrybut (Nazwa:Typ:Pozycja)*",
+        "Wartość (Wartość:Pozycja)*",
+        "Identyfikator dostawcy", #filler
+        "Indeks", #filler
+        "kod EAN13", #filler
+        "Kod kreskowy UPC", #filler
+        "MPN", #filler
+        "Koszt własny", #filler
+        "Wpływ na cenę", #filler
+        "Podatek ekologiczny", #filler
+        "Ilość"
+    ])
+
+    def write_size(idx, attr, val):
+        global writer
+        row = [idx, None, attr, val, None, None, None, None, None, None, None, None, random.randint(10,50)]
+        writer.writerow(row)
+
+    for idx, item in enumerate(data.values()):
+        sizes = item["size"]
+
+        for size in sizes:
+            size = size.split(" ")[0]
+            if size == "Rozmiar":
+                write_size(idx+1, "", "")
+                continue
+            write_size(idx+1, "Rozmiar:select:1", size)

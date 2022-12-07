@@ -1,0 +1,5 @@
+"ID";"Aktywny (0 lub 1)";"Nazwa*";"Kategoria nadrzędna";"Główna kategoria (0/1)"
+3;1;"Mezczyzna";"";0
+4;1;"Kurtki & Płaszcze";"Mezczyzna";0
+5;1;"Kurtki i Kurtki Puchowe";"Kurtki & Płaszcze";0
+6;1;"Kurtki Skórzane";"Kurtki & Płaszcze";0
