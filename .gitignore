@@ -1,1 +1,4 @@
 prestashop/var/cache/*
+Selenium-Features/geckodriver.log
+geckodriver.log
+Selenium-Features/photo_import/*
