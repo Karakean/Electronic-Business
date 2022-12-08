@@ -1673,3 +1673,160 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't fin
 JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
 1670100809810	Marionette	INFO	Stopped listening on port 37737
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670499069870	geckodriver	INFO	Listening on 127.0.0.1:48039
+1670499070373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44441" "-no-remote" "-profile" "/tmp/rust_mozprofile4b8ce3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670499072431	Marionette	INFO	Marionette enabled
+1670499072437	Marionette	INFO	Listening on port 44081
+WebDriver BiDi listening on ws://127.0.0.1:44441
+1670499072730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4b8ce3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44441/devtools/browser/a0058262-65c7-4dac-b608-ff1dd4e4080b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+1670499076839	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670499128655	Marionette	INFO	Stopped listening on port 44081
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 908: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1670499200771	geckodriver	INFO	Listening on 127.0.0.1:58511
+1670499200777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43283" "-no-remote" "-profile" "/tmp/rust_mozprofilerXv7Y7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670499201842	Marionette	INFO	Marionette enabled
+1670499201847	Marionette	INFO	Listening on port 35837
+WebDriver BiDi listening on ws://127.0.0.1:43283
+1670499202030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerXv7Y7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43283/devtools/browser/f229afb9-123c-44da-84ff-1ca1cbc96c88
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+1670499205544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670500822793	geckodriver	INFO	Listening on 127.0.0.1:55377
+1670500823308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51201" "-no-remote" "-profile" "/tmp/rust_mozprofileCUcwZh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670500824353	Marionette	INFO	Marionette enabled
+1670500824357	Marionette	INFO	Listening on port 33509
+WebDriver BiDi listening on ws://127.0.0.1:51201
+1670500824487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCUcwZh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51201/devtools/browser/c25653bf-5b28-40b6-b78b-a48e53b1dd51
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+1670500828143	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670500828144	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670500828146	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670500845140	Marionette	INFO	Stopped listening on port 33509
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670500866021	Marionette	INFO	Stopped listening on port 35837
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670500868803	geckodriver	INFO	Listening on 127.0.0.1:52455
+1670500868809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49739" "-no-remote" "-profile" "/tmp/rust_mozprofilerOrT87"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670500869850	Marionette	INFO	Marionette enabled
+1670500869854	Marionette	INFO	Listening on port 42599
+WebDriver BiDi listening on ws://127.0.0.1:49739
+1670500869985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerOrT87/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49739/devtools/browser/0160930a-b458-430a-9863-e1e8ba2592bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+1670500884002	Marionette	INFO	Stopped listening on port 42599
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670500895638	geckodriver	INFO	Listening on 127.0.0.1:59719
+1670500895643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51619" "-no-remote" "-profile" "/tmp/rust_mozprofileAQTnLk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670500896469	Marionette	INFO	Marionette enabled
+1670500896474	Marionette	INFO	Listening on port 36681
+WebDriver BiDi listening on ws://127.0.0.1:51619
+1670500896604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAQTnLk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51619/devtools/browser/2f0dbf31-9918-41b9-a60e-640689002038
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670500910876	Marionette	INFO	Stopped listening on port 36681
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670500918531	geckodriver	INFO	Listening on 127.0.0.1:47683
+1670500918536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44427" "-no-remote" "-profile" "/tmp/rust_mozprofileLRqlJJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670500919378	Marionette	INFO	Marionette enabled
+1670500919382	Marionette	INFO	Listening on port 36039
+WebDriver BiDi listening on ws://127.0.0.1:44427
+1670500919511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLRqlJJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44427/devtools/browser/3e1163de-3880-485e-9ced-7fbc3dbd0925
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+1670501355838	Marionette	INFO	Stopped listening on port 36039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670501692199	geckodriver	INFO	Listening on 127.0.0.1:36291
+1670501692203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44513" "-no-remote" "-profile" "/tmp/rust_mozprofileDMXidM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670501692918	Marionette	INFO	Marionette enabled
+1670501692923	Marionette	INFO	Listening on port 37513
+WebDriver BiDi listening on ws://127.0.0.1:44513
+1670501693095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDMXidM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44513/devtools/browser/e27b92b9-f9e5-49c1-9657-7c32899540fa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+1670501696029	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1670502257413	Marionette	INFO	Stopped listening on port 37513
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670502260290	geckodriver	INFO	Listening on 127.0.0.1:36287
+1670502260295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47445" "-no-remote" "-profile" "/tmp/rust_mozprofileO1J6HY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670502261181	Marionette	INFO	Marionette enabled
+1670502261185	Marionette	INFO	Listening on port 37635
+WebDriver BiDi listening on ws://127.0.0.1:47445
+1670502261303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO1J6HY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47445/devtools/browser/c85aeb2c-54bc-4832-a280-90ceb3fd886c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: http://localhost:8080/amdin/themes/default/js/bundle/module/module_card.js?1.7.8.7, line 1: SyntaxError: redeclaration of let moduleCardController
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1670504151117	Marionette	INFO	Stopped listening on port 37635
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670504157167	geckodriver	INFO	Listening on 127.0.0.1:33553
+1670504157172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57185" "-no-remote" "-profile" "/tmp/rust_mozprofileeVURKf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1670504157940	Marionette	INFO	Marionette enabled
+1670504157945	Marionette	INFO	Listening on port 33403
+WebDriver BiDi listening on ws://127.0.0.1:57185
+1670504158084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeVURKf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57185/devtools/browser/5ff43611-3ba6-448f-beb5-661bba0681fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:8080."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

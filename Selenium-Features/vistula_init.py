@@ -66,20 +66,13 @@ def selectImportMode(mode):
   return upload
 
 def importCategories():
-  upload = selectImportMode("2")
+  upload = selectImportMode("5")
 
   upload.send_keys("/home/kulpas/Studia/Biznes/Electronic-Business/Selenium-Features/data_category.csv")
   #TUTAJ ŚCIEŻKA NA PLIK  ^^^^^^^^^^^^^^^^^^^
  
-  time.sleep(15)
+  time.sleep(5)
 
-def importProducts():
-  upload = selectImportMode("1")
-
-  upload.send_keys("/home/kulpas/Studia/Biznes/Electronic-Business/Selenium-Features/data_product.csv")
-  #TUTAJ ŚCIEŻKA NA PLIK  ^^^^^^^^^^^^^^^^^^^
- 
-  time.sleep(15)
   # Select toggles
   btn = driver.find_element(By.ID, "truncate_1")
   btn.location_once_scrolled_into_view
@@ -89,6 +82,37 @@ def importProducts():
 
   driver.find_element(By.ID, "forceIDs_1").click()
   driver.find_element(By.ID, "sendemail_0").click()
+
+  time.sleep(2)
+
+  driver.find_element(By.NAME, "submitImportFile").click()
+  driver.switch_to.alert.accept()
+
+  time.sleep(2)
+  # Final confirm and wait for finish
+  
+  final = driver.find_element(By.ID,"import")
+  final.location_once_scrolled_into_view
+  final.click()
+  wait_for_finish()
+  return
+
+def importProducts():
+  upload = selectImportMode("1")
+
+  upload.send_keys("/home/kulpas/Studia/Biznes/Electronic-Business/Selenium-Features/data_product.csv")
+  #TUTAJ ŚCIEŻKA NA PLIK  ^^^^^^^^^^^^^^^^^^^
+ 
+  time.sleep(7)
+  # Select toggles
+  btn = driver.find_element(By.ID, "truncate_1")
+  btn.location_once_scrolled_into_view
+  driver.execute_script("window.scrollBy(0, -150);")
+  time.sleep(1)
+  #btn.click()
+
+  #driver.find_element(By.ID, "forceIDs_1").click()
+  #driver.find_element(By.ID, "sendemail_0").click()
 
   time.sleep(2)
 
@@ -117,7 +141,25 @@ def importCombinations():
   upload.send_keys("/home/kulpas/Studia/Biznes/Electronic-Business/Selenium-Features/data_combination.csv")
   #TUTAJ ŚCIEŻKA NA PLIK  ^^^^^^^^^^^^^^^^^^^
  
-  time.sleep(15)
+  time.sleep(7)
+  # Select toggles
+  btn = driver.find_element(By.ID, "truncate_1")
+  btn.location_once_scrolled_into_view
+  driver.execute_script("window.scrollBy(0, -150);")
+  time.sleep(1)
+
+  # Send
+  driver.find_element(By.NAME, "submitImportFile").click()
+  driver.switch_to.alert.accept()
+
+  time.sleep(2)
+  # Final confirm and wait for finish
+  
+  final = driver.find_element(By.ID,"import")
+  final.location_once_scrolled_into_view
+  final.click()
+  wait_for_finish()
+  return
 
 driver = webdriver.Firefox()
 driver.maximize_window()
@@ -127,5 +169,5 @@ driver.get("http://localhost:8080/amdin/")
 login()
 gotoImport()
 importCategories()
-#importProducts()
-#importCombinations()
+importProducts()
+importCombinations()
