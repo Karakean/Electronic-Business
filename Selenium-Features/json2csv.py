@@ -102,7 +102,7 @@ with open('data_product.csv', 'w', newline='') as csvfile:
             price = item["without_discount_price"]
             discount = round(float(price.replace(",",".")) - float(item["price"].replace(",",".")), 2)
 
-        photos = ','.join(item["photos_urls"])
+        photos = ','.join([f"http://localhost/img/products/{idx+1:03}-{jdx+1:03}.jpg" for jdx in range(len(item["photos_urls"]))])
 
         # Te wszystkie None są po to żeby kolejność kolumn w prestashopie sie zgadzała
         # Można ich nie dawać ale wtedy trzeba manualnie/webdriverem wybrać co jest czym
@@ -155,7 +155,7 @@ with open('data_product.csv', 'w', newline='') as csvfile:
         row.append(None)
         row.append(None)
         row.append(1) # Pokaż cenę
-        #row.append(photos) # Zdjęcia
+        row.append(photos) # Zdjęcia
 
         # Tbh, to reszta tych pól z excela wydaje się zbędna i raczej nie trzeba ich mieć
         # Może ktoś inny dodać reszte jeśli bedą potrzebne
