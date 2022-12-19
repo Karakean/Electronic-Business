@@ -1,0 +1,691 @@
+"ID";"Aktywny (0 lub 1)";"Nazwa";"Kategorie (x,y,z...)";"Cena bez podatku. (netto)";"Cena zawiera podatek. (brutto)ID reguły podatkuKoszt własnyW sprzedaży (0 lub 1)"
+1;1;"Puchowa parka z kapturem";"TataKobasa";"1099,90";"";"";"";1
+2;1;"Puchowa parka z kapturem";"TataKobasa";"1099,90";"";"";"";1
+3;1;"VISTULA|PZPN - Wełniana kurtka typu bomber";"TataKobasa";"1599,90";"";"";"";1
+4;1;"Puchowa kurtka";"TataKobasa";"999,90";"";"";"";1
+5;1;"Puchowa parka z kapturem";"TataKobasa";"1099,90";"";"";"";1
+6;1;"Puchowa parka z kapturem";"TataKobasa";"1099,90";"";"";"";1
+7;1;"Puchowa kurtka z kapturem";"TataKobasa";"1099,90";"";"";"";1
+8;1;"Sportowa kurtka z łączonych materiałów";"TataKobasa";"699,90";"";"";"";1
+9;1;"Kurtka z wypełnieniem z recyklingu";"TataKobasa";"799,90";"";"";"";1
+10;1;"Puchowa kurtka z kapturem";"TataKobasa";"599,90";"";"";"";1
+11;1;"Puchowa kurtka z kapturem";"TataKobasa";"599,90";"";"";"";1
+12;1;"Parka z technicznej tkaniny";"TataKobasa";"799,90";"";"";"";1
+13;1;"Parka z technicznej tkaniny";"TataKobasa";"799,90";"";"";"";1
+14;1;"Parka z technicznej tkaniny";"TataKobasa";"799,90";"";"";"";1
+15;1;"Dwurzędowa kurtka";"TataKobasa";"1199,90";"";"";"";1
+16;1;"Dwurzędowa kurtka";"TataKobasa";"1199,90";"";"";"";1
+17;1;"Krótka puchowa parka";"TataKobasa";"999,90";"";"";"";1
+18;1;"Puchowa kurtka ze stójką";"TataKobasa";"799,90";"";"";"";1
+19;1;"Puchowa kurtka ze stójką";"TataKobasa";"799,90";"";"";"";1
+20;1;"Puchowa kurtka ze stójką";"TataKobasa";"799,90";"";"";"";1
+21;1;"Puchowa bomberka pikowana";"TataKobasa";"599,90";"";"";"";1
+22;1;"Puchowa bomberka pikowana";"TataKobasa";"599,90";"";"";"";1
+23;1;"Parka z kapturem";"TataKobasa";"699,90";"";"";"";1
+24;1;"Krótka puchowa kurtka";"TataKobasa";"999,90";"";"";"";1
+25;1;"Skórzana kurtka ze stójką";"TataKobasa";"1499,90";"";"";"";1
+26;1;"Skórzana kurtka z pikowaniem";"TataKobasa";"1799,90";"";"";"";1
+27;1;"Skórzana kurtka ze stójką";"TataKobasa";"1499,90";"";"";"";1
+28;1;"Skórzana kurtka";"TataKobasa";"1699,90";"";"";"";1
+29;1;"Jeansowa kurtka";"TataKobasa";"649,90";"";"";"";1
+30;1;"Jednorzędowy płaszcz";"TataKobasa";"1299,90";"";"";"";1
+31;1;"Jednorzędowy płaszcz";"TataKobasa";"1299,90";"";"";"";1
+32;1;"Płaszcz z gładkiej tkaniny";"TataKobasa";"799,90";"";"";"";1
+33;1;"Luźny płaszcz w kratę";"TataKobasa";"1199,90";"";"";"";1
+34;1;"Płaszcz w delikatny deseń";"TataKobasa";"1299,90";"";"";"";1
+35;1;"Ocieplany płaszcz z domieszką wełny";"TataKobasa";"1299,90";"";"";"";1
+36;1;"Płaszcz w delikatny deseń";"TataKobasa";"1299,90";"";"";"";1
+37;1;"Klasyczny płaszcz w kratę";"TataKobasa";"1499,90";"";"";"";1
+38;1;"Klasyczny płaszcz w kratę";"TataKobasa";"1499,90";"";"";"";1
+39;1;"Płaszcz w delikatny deseń";"TataKobasa";"1299,90";"";"";"";1
+40;1;"Jednorzędowy płaszcz w pepitę";"TataKobasa";"999,90";"";"";"";1
+41;1;"Płaszcz z tkaniny technicznej";"TataKobasa";"1299,90";"";"";"";1
+42;1;"VISTULA|PZPN - Polo z wełny merino";"TataKobasa";"299,90";"";"";"";1
+43;1;"Wełniany sweter z dodatkiem jedwabiu";"TataKobasa";"299,90";"";"";"";1
+44;1;"Wełniany sweter z dodatkiem jedwabiu";"TataKobasa";"299,90";"";"";"";1
+45;1;"Sweter o warkoczowym spocie";"TataKobasa";"349,90";"";"";"";1
+46;1;"Strukturalny sweter z melanżowej dzianiny";"TataKobasa";"299,90";"";"";"";1
+47;1;"Wełniany sweter typu round-neck w prążek";"TataKobasa";"379,90";"";"";"";1
+48;1;"Wełniany sweter typu round-neck w prążek";"TataKobasa";"379,90";"";"";"";1
+49;1;"Wełniany sweter z dodatkiem poliamidu i jedwabiu";"TataKobasa";"279,90";"";"";"";1
+50;1;"Wełniany sweter z dodatkiem poliamidu i jedwabiu";"TataKobasa";"279,90";"";"";"";1
+51;1;"Wełniany sweter z dodatkiem poliamidu i jedwabiu";"TataKobasa";"279,90";"";"";"";1
+52;1;"Wełniany sweter z dodatkiem poliamidu i jedwabiu";"TataKobasa";"279,90";"";"";"";1
+53;1;"Sweter ze stójką z dzianiny bawełnianej";"TataKobasa";"349,90";"";"";"";1
+54;1;"Sweter ze stójką z dzianiny bawełnianej";"TataKobasa";"349,90";"";"";"";1
+55;1;"Sweter ze stójką z dzianiny bawełnianej";"TataKobasa";"349,90";"";"";"";1
+56;1;"Sweter z dzianiny bawełnianej";"TataKobasa";"299,90";"";"";"";1
+57;1;"Sweter z dzianiny bawełnianej";"TataKobasa";"299,90";"";"";"";1
+58;1;"Sweter z dzianiny bawełnianej";"TataKobasa";"299,90";"";"";"";1
+59;1;"Sweter z wzorem";"TataKobasa";"249,90";"";"";"";1
+60;1;"Sweter z wzorem";"TataKobasa";"249,90";"";"";"";1
+61;1;"Sweter z wzorem";"TataKobasa";"249,90";"";"";"";1
+62;1;"Sweter z wzorem";"TataKobasa";"249,90";"";"";"";1
+63;1;"Sweter z wzorem";"TataKobasa";"249,90";"";"";"";1
+64;1;"Sweter typu round-neck z wełny merino";"TataKobasa";"349,90";"";"";"";1
+65;1;"Sweter typu round-neck z wełny merino";"TataKobasa";"349,90";"";"";"";1
+66;1;"Strukturalny sweter zapinany na zamek";"TataKobasa";"349,90";"";"";"";1
+67;1;"Golf o strukturalnym splocie";"TataKobasa";"349,90";"";"";"";1
+68;1;"Golf o strukturalnym splocie";"TataKobasa";"349,90";"";"";"";1
+69;1;"Wywijany golf z prążkowanej dzianiny";"TataKobasa";"219,90";"";"";"";1
+70;1;"Wywijany golf z prążkowanej dzianiny";"TataKobasa";"219,90";"";"";"";1
+71;1;"Wywijany golf z prążkowanej dzianiny";"TataKobasa";"219,90";"";"";"";1
+72;1;"Sweter ze stójką z dzianiny bawełnianej";"TataKobasa";"349,90";"";"";"";1
+73;1;"Golf z prążkowanej dzianiny";"TataKobasa";"219,90";"";"";"";1
+74;1;"Golf z prążkowanej dzianiny";"TataKobasa";"219,90";"";"";"";1
+75;1;"Golf z prążkowanej dzianiny";"TataKobasa";"219,90";"";"";"";1
+76;1;"Wełniany golf z dodatkiem poliamidu i jedwabiu";"TataKobasa";"299,90";"";"";"";1
+77;1;"Wełniany golf z dodatkiem poliamidu i jedwabiu";"TataKobasa";"299,90";"";"";"";1
+78;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+79;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+80;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+81;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+82;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+83;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+84;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+85;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+86;1;"Lekki, wełniany golf";"TataKobasa";"349,90";"";"";"";1
+87;1;"Lekki, wełniany golf";"TataKobasa";"349,90";"";"";"";1
+88;1;"Lekki, wełniany golf";"TataKobasa";"349,90";"";"";"";1
+89;1;"Lekki, wełniany golf";"TataKobasa";"349,90";"";"";"";1
+90;1;"Bawełniany półgolf";"TataKobasa";"299,90";"";"";"";1
+91;1;"Jeansy o prostym kroju";"TataKobasa";"349,90";"";"";"";1
+92;1;"Jeansy z przetarciami";"TataKobasa";"349,90";"";"";"";1
+93;1;"Jeansy z przetarciami";"TataKobasa";"349,90";"";"";"";1
+94;1;"Jeansy o prostym kroju";"TataKobasa";"349,90";"";"";"";1
+95;1;"Jeansy o prostym kroju";"TataKobasa";"349,90";"";"";"";1
+96;1;"Klasyczne jeansy z przetarciami";"TataKobasa";"349,90";"";"";"";1
+97;1;"Jeansy";"TataKobasa";"349,90";"";"";"";1
+98;1;"Jeansy o luźnym kroju";"TataKobasa";"399,90";"";"";"";1
+99;1;"Jeansy";"TataKobasa";"349,90";"";"";"";1
+100;1;"VISTULA|PZPN - Wełniane spodnie";"TataKobasa";"899,90";"";"";"";1
+101;1;"Chinosy o kroju slim fit";"TataKobasa";"349,90";"";"";"";1
+102;1;"Chinosy o kroju slim fit";"TataKobasa";"349,90";"";"";"";1
+103;1;"Chinosy o kroju slim fit";"TataKobasa";"349,90";"";"";"";1
+104;1;"Chinosy o kroju slim fit";"TataKobasa";"349,90";"";"";"";1
+105;1;"Chinosy o kroju slim fit";"TataKobasa";"349,90";"";"";"";1
+106;1;"Chinosy w o kroju slim fit w kratę";"TataKobasa";"349,90";"";"";"";1
+107;1;"Chinosy o kroju slim fit w kratę";"TataKobasa";"349,90";"";"";"";1
+108;1;"Chinosy o kroju slim fit w kratę";"TataKobasa";"349,90";"";"";"";1
+109;1;"Chinosy o kroju slim fit w kratę";"TataKobasa";"299,90";"";"";"";1
+110;1;"Chinosy o kroju slim fit";"TataKobasa";"349,90";"";"";"";1
+111;1;"Sztruksowe spodnie o kroju slim fit";"TataKobasa";"299,90";"";"";"";1
+112;1;"Sztruksowe spodnie o kroju slim fit";"TataKobasa";"299,90";"";"";"";1
+113;1;"Sztruksowe spodnie o kroju slim fit";"TataKobasa";"299,90";"";"";"";1
+114;1;"Spodnie o kroju regular";"TataKobasa";"299,90";"";"";"";1
+115;1;"Spodnie o kroju regular";"TataKobasa";"299,90";"";"";"";1
+116;1;"Spodnie o kroju regular";"TataKobasa";"299,90";"";"";"";1
+117;1;"Sztruksowe spodnie slim fit";"TataKobasa";"349,90";"";"";"";1
+118;1;"Spodnie o kroju slim fit";"TataKobasa";"349,90";"";"";"";1
+119;1;"Spodnie o kroju slim fit";"TataKobasa";"349,90";"";"";"";1
+120;1;"Chinosy o kroju slim fit";"TataKobasa";"349,90";"";"";"";1
+121;1;"Sztruksowe spodnie";"TataKobasa";"299,90";"";"";"";1
+122;1;"Sztruksowe spodnie";"TataKobasa";"299,90";"";"";"";1
+123;1;"Sztruksowe spodnie";"TataKobasa";"299,90";"";"";"";1
+124;1;"Bluza z okrągłym tłoczeniem";"TataKobasa";"349,90";"";"";"";1
+125;1;"Bluza z kapturem";"TataKobasa";"349,90";"";"";"";1
+126;1;"Bluza z kapturem";"TataKobasa";"349,90";"";"";"";1
+127;1;"Bluza z kapturem";"TataKobasa";"349,90";"";"";"";1
+128;1;"Bluza z logo";"TataKobasa";"299,90";"";"";"";1
+129;1;"Bluza z logo";"TataKobasa";"299,90";"";"";"";1
+130;1;"Bluza z logo";"TataKobasa";"299,90";"";"";"";1
+131;1;"Bluza z bawełny pima";"TataKobasa";"249,90";"";"";"";1
+132;1;"Bluza z bawełny pima";"TataKobasa";"249,90";"";"";"";1
+133;1;"Bluza z bawełny pima";"TataKobasa";"249,90";"";"";"";1
+134;1;"Bluza z haftem";"TataKobasa";"349,90";"";"";"";1
+135;1;"Bluza z kapturem";"TataKobasa";"349,90";"";"";"";1
+136;1;"Bluza z kapturem";"TataKobasa";"349,90";"";"";"";1
+137;1;"Bluza z kapturem";"TataKobasa";"349,90";"";"";"";1
+138;1;"Sportowa bluza z ozdobnymi lampasami";"TataKobasa";"399,90";"";"";"";1
+139;1;"Sportowa bluza z ozdobnymi lampasami";"TataKobasa";"399,90";"";"";"";1
+140;1;"Spodnie dresowe";"TataKobasa";"299,90";"";"";"";1
+141;1;"Spodnie dresowe";"TataKobasa";"299,90";"";"";"";1
+142;1;"Bluza z kapturem";"TataKobasa";"349,90";"";"";"";1
+143;1;"Bluza z kapturem";"TataKobasa";"349,90";"";"";"";1
+144;1;"Sportowa bluza z ozdobnymi lampasami";"TataKobasa";"399,90";"";"";"";1
+145;1;"Sportowa bluza z ozdobnymi lampasami";"TataKobasa";"399,90";"";"";"";1
+146;1;"Spodnie dresowe z przeszyciami";"TataKobasa";"249,90";"";"";"";1
+147;1;"Spodnie dresowe z ozdobnymi lampasami";"TataKobasa";"249,90";"";"";"";1
+148;1;"Spodnie dresowe z ozdobnymi lampasami";"TataKobasa";"249,90";"";"";"";1
+149;1;"Joggery cargo";"TataKobasa";"349,90";"";"";"";1
+150;1;"Spodnie dzianinowe z przeszyciami";"TataKobasa";"299,90";"";"";"";1
+151;1;"Spodnie dresowe";"TataKobasa";"299,90";"";"";"";1
+152;1;"Spodnie dresowe";"TataKobasa";"299,90";"";"";"";1
+153;1;"Joggery z ozdobnymi lampasami";"TataKobasa";"299,90";"";"";"";1
+154;1;"Joggery z ozdobnymi lampasami";"TataKobasa";"299,90";"";"";"";1
+155;1;"Spodnie dzianinowe o kroju slim fit z przeszyciami";"TataKobasa";"299,90";"";"";"";1
+156;1;"VISTULA|PZPN - Wełniany garnitur o kroju super slim";"TataKobasa";"1999,90";"";"";"";1
+157;1;"Garnitur o kroju super slim w kratę";"TataKobasa";"2499,90";"";"";"";1
+158;1;"Garnitur o kroju super slim w kratę";"TataKobasa";"1999,90";"";"";"";1
+159;1;"Garnitur o kroju super slim";"TataKobasa";"1799,90";"";"";"";1
+160;1;"Garnitur 3-częściowy o kroju super slim";"TataKobasa";"2199,90";"";"";"";1
+161;1;"Garnitur o kroju slim fit w kratę";"TataKobasa";"1799,90";"";"";"";1
+162;1;"Garnitur o kroju super slim w mikrowzór";"TataKobasa";"1599,90";"";"";"";1
+163;1;"Garnitur o kroju super slim w kratę";"TataKobasa";"1799,90";"";"";"";1
+164;1;"Garnitur o kroju slim w mikrowzór";"TataKobasa";"1599,90";"";"";"";1
+165;1;"Garnitur o kroju super slim";"TataKobasa";"1599,90";"";"";"";1
+166;1;"Garnitur o kroju slim fit w kratę";"TataKobasa";"1899,90";"";"";"";1
+167;1;"Garnitur o kroju super slim w mikrowzór";"TataKobasa";"1599,90";"";"";"";1
+168;1;"Garnitur o kroju super slim w kratę";"TataKobasa";"2499,90";"";"";"";1
+169;1;"Garnitur 3-częściowy o kroju super slim";"TataKobasa";"2199,90";"";"";"";1
+170;1;"Garnitur o kroju super slim";"TataKobasa";"1799,90";"";"";"";1
+171;1;"Garnitur o kroju super slim";"TataKobasa";"1599,90";"";"";"";1
+172;1;"Garnitur o kroju super slim";"TataKobasa";"1599,90";"";"";"";1
+173;1;"Garnitur o kroju super slim";"TataKobasa";"1799,90";"";"";"";1
+174;1;"Garnitur o kroju super slim w mikrowzór";"TataKobasa";"1699,90";"";"";"";1
+175;1;"Garnitur o kroju slim fit w kratę";"TataKobasa";"2399,90";"";"";"";1
+176;1;"Garnitur o kroju super slim";"TataKobasa";"1499,90";"";"";"";1
+177;1;"Garnitur 3-częściowy o kroju super slim";"TataKobasa";"2199,90";"";"";"";1
+178;1;"Garnitur o kroju super slim w mikrowzór";"TataKobasa";"1599,90";"";"";"";1
+179;1;"Garnitur o kroju super slim";"TataKobasa";"1799,90";"";"";"";1
+180;1;"MIX & MATCH - Spodnie super slim do garnituru";"TataKobasa";"549,90";"";"";"";1
+181;1;"MIX & MATCH - Klasyczna marynarka wełniana do garnituru";"TataKobasa";"949,90";"";"";"";1
+182;1;"MIX & MATCH - Klasyczne spodnie do garnituru";"TataKobasa";"549,90";"";"";"";1
+183;1;"Marynarka slim fit do garnituru";"TataKobasa";"1049,90";"";"";"";1
+184;1;"Klasyczna marynarka";"TataKobasa";"949,90";"";"";"";1
+185;1;"MIX & MATCH - Marynarka super slim do garnituru";"TataKobasa";"1049,90";"";"";"";1
+186;1;"MIX & MATCH - Spodnie super slim do garnituru";"TataKobasa";"549,90";"";"";"";1
+187;1;"MIX & MATCH - Marynarka slim fit do garnituru";"TataKobasa";"1049,90";"";"";"";1
+188;1;"MIX & MATCH - Spodnie slim fit do garnituru";"TataKobasa";"549,90";"";"";"";1
+189;1;"MIX & MATCH - Marynarka o kroju slim fit do garnituru";"TataKobasa";"1049,90";"";"";"";1
+190;1;"MIX & MATCH - Spodnie slim fit do garnituru";"TataKobasa";"549,90";"";"";"";1
+191;1;"MIX & MATCH - Marynarka super slim do garnituru";"TataKobasa";"1099,90";"";"";"";1
+192;1;"MIX & MATCH - Spodnie super slim do garnituru";"TataKobasa";"599,90";"";"";"";1
+193;1;"MIX & MATCH - Marynarka slim fit do garnituru";"TataKobasa";"999,90";"";"";"";1
+194;1;"MIX & MATCH - Spodnie slim fit do garnituru";"TataKobasa";"499,90";"";"";"";1
+195;1;"MIX & MATCH - Marynarka super slim do garnituru";"TataKobasa";"999,90";"";"";"";1
+196;1;"MIX & MATCH - Spodnie super slim do garnituru";"TataKobasa";"499,90";"";"";"";1
+197;1;"MIX & MATCH - Marynarka slim fit do garnituru";"TataKobasa";"1049,90";"";"";"";1
+198;1;"MIX & MATCH - Spodnie slim fit do garnituru";"TataKobasa";"549,90";"";"";"";1
+199;1;"MIX & MATCH - Marynarka super slim do garnituru";"TataKobasa";"1049,90";"";"";"";1
+200;1;"Kamizelka o kroju super slim w kratę";"TataKobasa";"499,90";"";"";"";1
+201;1;"Kamizelka";"TataKobasa";"349,90";"";"";"";1
+202;1;"Kamizelka";"TataKobasa";"349,90";"";"";"";1
+203;1;"Wełniana kamizelka w kratę";"TataKobasa";"399,90";"";"";"";1
+204;1;"Wełniana kamizelka w kratę";"TataKobasa";"399,90";"";"";"";1
+205;1;"Wełniana kamizelka";"TataKobasa";"399,90";"";"";"";1
+206;1;"Wełniana kamizelka w kratę";"TataKobasa";"399,90";"";"";"";1
+207;1;"Marynarka slim fit w kratę";"TataKobasa";"999,90";"";"";"";1
+208;1;"Marynarka o kroju super slim w mikrowzór";"TataKobasa";"899,90";"";"";"";1
+209;1;"Marynarka o kroju super slim w kratę";"TataKobasa";"899,90";"";"";"";1
+210;1;"Marynarka super slim w kratę";"TataKobasa";"1299,90";"";"";"";1
+211;1;"Marynarka o kroju super slim w pepitę";"TataKobasa";"1199,90";"";"";"";1
+212;1;"Marynarka o kroju super slim w kratę";"TataKobasa";"1299,90";"";"";"";1
+213;1;"Marynarka o kroju super slim w mikrowzór";"TataKobasa";"1199,90";"";"";"";1
+214;1;"Marynarka o kroju super slim w mikrowzór";"TataKobasa";"1199,90";"";"";"";1
+215;1;"Marynarka o kroju super slim w kratę";"TataKobasa";"899,90";"";"";"";1
+216;1;"Marynarka slim fit z melanżowej tkaniny";"TataKobasa";"899,90";"";"";"";1
+217;1;"Marynarka o kroju slim w kratę";"TataKobasa";"899,90";"";"";"";1
+218;1;"Marynarka o kroju super slim w kratę";"TataKobasa";"999,90";"";"";"";1
+219;1;"Marynarka o kroju slim fit w kratę";"TataKobasa";"999,90";"";"";"";1
+220;1;"Marynarka o kroju super slim w mikrowzór";"TataKobasa";"1199,90";"";"";"";1
+221;1;"Marynarka o kroju super slim w kratę";"TataKobasa";"899,90";"";"";"";1
+222;1;"Marynarka o kroju super slim w mikrowzór";"TataKobasa";"1299,90";"";"";"";1
+223;1;"Marynarka o kroju super slim w prążek";"TataKobasa";"899,90";"";"";"";1
+224;1;"Marynarka o kroju super slim w mikrowzór";"TataKobasa";"999,90";"";"";"";1
+225;1;"Marynarka o kroju slim fit w mikrowzór";"TataKobasa";"999,90";"";"";"";1
+226;1;"Marynarka o kroju super slim w kratę";"TataKobasa";"1299,90";"";"";"";1
+227;1;"Marynarka o kroju slim fit w kratę";"TataKobasa";"999,90";"";"";"";1
+228;1;"MIX & MATCH - Marynarka o kroju slim fit do garnituru";"TataKobasa";"1049,90";"";"";"";1
+229;1;"MIX & MATCH - Marynarka slim fit do garnituru";"TataKobasa";"1049,90";"";"";"";1
+230;1;"MIX & MATCH - Marynarka super slim do garnituru";"TataKobasa";"1049,90";"";"";"";1
+231;1;"MIX & MATCH - Marynarka slim fit do garnituru";"TataKobasa";"1049,90";"";"";"";1
+232;1;"Koszula o kroju slim fit";"TataKobasa";"299,90";"";"";"";1
+233;1;"Koszula o kroju slim fit";"TataKobasa";"299,90";"";"";"";1
+234;1;"VISTULA|PZPN - Koszula o kroju super slim";"TataKobasa";"399,90";"";"";"";1
+235;1;"Koszula slim fit w kratę";"TataKobasa";"349,90";"";"";"";1
+236;1;"Sztruksowa koszula relaxed fit w kratę";"TataKobasa";"299,90";"";"";"";1
+237;1;"Flanelowa koszula relaxed fit w kratę";"TataKobasa";"299,90";"";"";"";1
+238;1;"Koszula o kroju super slim w kratę";"TataKobasa";"249,90";"";"";"";1
+239;1;"Koszula o kroju super slim w kratę";"TataKobasa";"249,90";"";"";"";1
+240;1;"Koszula o kroju super slim w kratę";"TataKobasa";"299,90";"";"";"";1
+241;1;"Koszula o kroju regular w prążek";"TataKobasa";"299,90";"";"";"";1
+242;1;"Koszula o kroju regular w kratę";"TataKobasa";"299,90";"";"";"";1
+243;1;"Sztruksowa koszula relaxed fit";"TataKobasa";"249,90";"";"";"";1
+244;1;"Koszula o kroju slim fit w mikrowzór";"TataKobasa";"349,90";"";"";"";1
+245;1;"Koszula o kroju slim fit w prążek";"TataKobasa";"299,90";"";"";"";1
+246;1;"Koszula o kroju slim fit w mikrowzór";"TataKobasa";"349,90";"";"";"";1
+247;1;"Koszula o kroju slim fit w kratę";"TataKobasa";"399,90";"";"";"";1
+248;1;"Koszula o kroju slim fit w kratę";"TataKobasa";"399,90";"";"";"";1
+249;1;"Koszula o kroju slim fit w kratę";"TataKobasa";"249,90";"";"";"";1
+250;1;"Koszula o kroju slim fit w mikrowzór";"TataKobasa";"249,90";"";"";"";1
+251;1;"Koszula o kroju slim fit w kratę";"TataKobasa";"349,90";"";"";"";1
+252;1;"Koszula o kroju slim fit w mikrowzór";"TataKobasa";"299,90";"";"";"";1
+253;1;"Flanelowa koszula o kroju relaxed fit";"TataKobasa";"299,90";"";"";"";1
+254;1;"Flanelowa koszula o kroju slim fit";"TataKobasa";"299,90";"";"";"";1
+255;1;"Flanelowa koszula o kroju relaxed fit";"TataKobasa";"299,90";"";"";"";1
+256;1;"Longsleeve ze strukturalnej dzianiny";"TataKobasa";"199,90";"";"";"";1
+257;1;"Longsleeve ze strukturalnej dzianiny";"TataKobasa";"199,90";"";"";"";1
+258;1;"Longsleeve ze strukturalnej dzianiny";"TataKobasa";"199,90";"";"";"";1
+259;1;"T-shirt ze stójką";"TataKobasa";"119,90";"";"";"";1
+260;1;"T-shirt ze stójką";"TataKobasa";"119,90";"";"";"";1
+261;1;"T-shirt z logo";"TataKobasa";"119,90";"";"";"";1
+262;1;"T-shirt z logo";"TataKobasa";"119,90";"";"";"";1
+263;1;"T-shirt z kieszonką";"TataKobasa";"149,90";"";"";"";1
+264;1;"T-shirt w mikrowzór";"TataKobasa";"199,90";"";"";"";1
+265;1;"T-shirt w mikrowzór";"TataKobasa";"199,90";"";"";"";1
+266;1;"Bawełniany t-shirt";"TataKobasa";"119,90";"";"";"";1
+267;1;"Bawełniany t-shirt";"TataKobasa";"119,90";"";"";"";1
+268;1;"T-shirt basic z logo";"TataKobasa";"99,90";"";"";"";1
+269;1;"T-shirt z bawełny merceryzowanej";"TataKobasa";"149,90";"";"";"";1
+270;1;"T-shirt z bawełny merceryzowanej";"TataKobasa";"149,90";"";"";"";1
+271;1;"T-shirt z logo";"TataKobasa";"99,90";"";"";"";1
+272;1;"T-shirt z logo";"TataKobasa";"99,90";"";"";"";1
+273;1;"T-shirt z logo";"TataKobasa";"99,90";"";"";"";1
+274;1;"T-shirt basic dopasowany";"TataKobasa";"149,90";"";"";"";1
+275;1;"T-shirt basic dopasowany";"TataKobasa";"149,90";"";"";"";1
+276;1;"T-shirt basic dopasowany";"TataKobasa";"149,90";"";"";"";1
+277;1;"T-shirt basic dopasowany";"TataKobasa";"149,90";"";"";"";1
+278;1;"T-shirt basic dopasowany";"TataKobasa";"99,00";"";"";"";1
+279;1;"T-shirt basic z długim rękawem";"TataKobasa";"129,00";"";"";"";1
+280;1;"T-shirt z nadrukiem";"TataKobasa";"149,90";"";"";"";1
+281;1;"T-shirt z nadrukiem";"TataKobasa";"149,90";"";"";"";1
+282;1;"Klasyczne polo";"TataKobasa";"179,90";"";"";"";1
+283;1;"Klasyczne polo";"TataKobasa";"179,90";"";"";"";1
+284;1;"Klasyczne polo z logo";"TataKobasa";"129,90";"";"";"";1
+285;1;"Klasyczne polo z logo";"TataKobasa";"119,90";"";"";"";1
+286;1;"Klasyczne polo z logo";"TataKobasa";"129,90";"";"";"";1
+287;1;"Klasyczne polo z logo";"TataKobasa";"119,90";"";"";"";1
+288;1;"Klasyczne polo z logo";"TataKobasa";"119,90";"";"";"";1
+289;1;"Klasyczne polo z logo";"TataKobasa";"119,90";"";"";"";1
+290;1;"Klasyczne polo z logo";"TataKobasa";"129,90";"";"";"";1
+291;1;"Klasyczne polo z logo";"TataKobasa";"129,90";"";"";"";1
+292;1;"VISTULA|PZPN - Polo z wełny merino";"TataKobasa";"299,90";"";"";"";1
+293;1;"VISTULA|PZPN - Skórzane sneakersy";"TataKobasa";"549,90";"";"";"";1
+294;1;"Skórzane sneakersy";"TataKobasa";"499,90";"";"";"";1
+295;1;"Skórzane sneakersy";"TataKobasa";"499,90";"";"";"";1
+296;1;"Zamszowe półbuty";"TataKobasa";"549,90";"";"";"";1
+297;1;"Skórzane trzewiki";"TataKobasa";"499,90";"";"";"";1
+298;1;"Skórzane trzewiki";"TataKobasa";"499,90";"";"";"";1
+299;1;"Zamszowe sztyblety";"TataKobasa";"599,90";"";"";"";1
+300;1;"Zamszowe trzewiki";"TataKobasa";"599,90";"";"";"";1
+301;1;"Zamszowe trzewiki";"TataKobasa";"599,90";"";"";"";1
+302;1;"Skórzane trzewiki";"TataKobasa";"599,90";"";"";"";1
+303;1;"Skórzane trzewiki";"TataKobasa";"599,90";"";"";"";1
+304;1;"Zamszowe trzewiki";"TataKobasa";"549,90";"";"";"";1
+305;1;"Skórzane sztyblety";"TataKobasa";"599,90";"";"";"";1
+306;1;"Skórzane sztyblety";"TataKobasa";"599,90";"";"";"";1
+307;1;"Skórzane buty typu derby";"TataKobasa";"549,90";"";"";"";1
+308;1;"Skórzane buty typu derby";"TataKobasa";"549,90";"";"";"";1
+309;1;"Skórzane buty typu derby";"TataKobasa";"549,90";"";"";"";1
+310;1;"Skórzane buty typu derby";"TataKobasa";"549,90";"";"";"";1
+311;1;"Skórzane buty typu derby";"TataKobasa";"549,90";"";"";"";1
+312;1;"Skórzane buty typu derby";"TataKobasa";"599,90";"";"";"";1
+313;1;"Skórzane buty typu derby, klasyczne do garnituru";"TataKobasa";"549,90";"";"";"";1
+314;1;"Skórzane buty typu oxford, klasyczne do garnituru";"TataKobasa";"699,00";"";"";"";1
+315;1;"Skórzana teczka";"TataKobasa";"999,90";"";"";"";1
+316;1;"Teczka skórzana";"TataKobasa";"1499,90";"";"";"";1
+317;1;"Skórzana teczka";"TataKobasa";"999,90";"";"";"";1
+318;1;"Skórzana torba";"TataKobasa";"599,90";"";"";"";1
+319;1;"Torba skórzana";"TataKobasa";"999,90";"";"";"";1
+320;1;"Torba skórzana";"TataKobasa";"999,90";"";"";"";1
+321;1;"Torba skórzana";"TataKobasa";"999,90";"";"";"";1
+322;1;"Torba skórzana";"TataKobasa";"999,90";"";"";"";1
+323;1;"Torba skórzana";"TataKobasa";"999,90";"";"";"";1
+324;1;"Torba skórzana";"TataKobasa";"999,90";"";"";"";1
+325;1;"Walizka kabinowa";"TataKobasa";"399,00";"";"";"";1
+326;1;"Legginsy bieliźniane";"TataKobasa";"79,90";"";"";"";1
+327;1;"Koszulka bieliźniana";"TataKobasa";"129,90";"";"";"";1
+328;1;"Legginsy bieliźniane";"TataKobasa";"79,90";"";"";"";1
+329;1;"Koszulka bieliźniana";"TataKobasa";"129,90";"";"";"";1
+330;1;"Bokserki";"TataKobasa";"69,90";"";"";"";1
+331;1;"Slipy";"TataKobasa";"59,90";"";"";"";1
+332;1;"Slipy";"TataKobasa";"59,90";"";"";"";1
+333;1;"Slipy";"TataKobasa";"59,90";"";"";"";1
+334;1;"Bransoleta";"TataKobasa";"119,90";"";"";"";1
+335;1;"Bransoleta";"TataKobasa";"119,90";"";"";"";1
+336;1;"Skórzana bransoleta";"TataKobasa";"99,90";"";"";"";1
+337;1;"Skórzana bransoleta";"TataKobasa";"99,90";"";"";"";1
+338;1;"Bransoleta z czarnego agatu";"TataKobasa";"99,90";"";"";"";1
+339;1;"Bransoleta z kamieni półszlachetnych";"TataKobasa";"99,90";"";"";"";1
+340;1;"Bransoleta";"TataKobasa";"79,90";"";"";"";1
+341;1;"Bransoleta";"TataKobasa";"99,90";"";"";"";1
+342;1;"Bransoleta z kamieni szlachetnych";"TataKobasa";"99,90";"";"";"";1
+343;1;"Czapka";"TataKobasa";"119,90";"";"";"";1
+344;1;"Czapka";"TataKobasa";"119,90";"";"";"";1
+345;1;"Czapka";"TataKobasa";"119,90";"";"";"";1
+346;1;"Wełniana czapka z domieszką kaszmiru";"TataKobasa";"199,90";"";"";"";1
+347;1;"Wełniana czapka z domieszką kaszmiru";"TataKobasa";"199,90";"";"";"";1
+348;1;"Kaszmirowa czapka";"TataKobasa";"299,90";"";"";"";1
+349;1;"Kaszmirowa czapka";"TataKobasa";"299,90";"";"";"";1
+350;1;"Wełniana czapka z dodatkiem poliamidu";"TataKobasa";"119,90";"";"";"";1
+351;1;"Wełniana czapka z dodatkiem poliamidu";"TataKobasa";"119,90";"";"";"";1
+352;1;"Wełniana czapka z dodatkiem poliamidu";"TataKobasa";"119,90";"";"";"";1
+353;1;"Bawełniana czapka";"TataKobasa";"79,90";"";"";"";1
+354;1;"Bawełniana czapka";"TataKobasa";"79,90";"";"";"";1
+355;1;"Czapka";"TataKobasa";"119,90";"";"";"";1
+356;1;"Czapka";"TataKobasa";"119,90";"";"";"";1
+357;1;"Czapka";"TataKobasa";"149,90";"";"";"";1
+358;1;"Czapka";"TataKobasa";"149,90";"";"";"";1
+359;1;"Czapka";"TataKobasa";"149,90";"";"";"";1
+360;1;"Czapka";"TataKobasa";"149,90";"";"";"";1
+361;1;"Kaszkiet";"TataKobasa";"99,90";"";"";"";1
+362;1;"Kaszkiet";"TataKobasa";"99,90";"";"";"";1
+363;1;"Czapka typu beanie";"TataKobasa";"119,90";"";"";"";1
+364;1;"Czapka typu beanie";"TataKobasa";"119,90";"";"";"";1
+365;1;"VISTULA|PZPN - Jedwabny krawat z logo";"TataKobasa";"249,90";"";"";"";1
+366;1;"Jedwabny krawat w kropki";"TataKobasa";"129,90";"";"";"";1
+367;1;"Jedwabny krawat w mikrowzór";"TataKobasa";"129,90";"";"";"";1
+368;1;"Jedwabny krawat w mikrowzór";"TataKobasa";"129,90";"";"";"";1
+369;1;"Krawat z dzianiny strukturalnej";"TataKobasa";"149,90";"";"";"";1
+370;1;"Krawat z dzianiny strukturalnej";"TataKobasa";"149,90";"";"";"";1
+371;1;"Krawat z dzianiny strukturalnej";"TataKobasa";"149,90";"";"";"";1
+372;1;"Jedwabny krawat w kwiatowy wzór";"TataKobasa";"129,90";"";"";"";1
+373;1;"Jedwabny krawat w mikrowzór";"TataKobasa";"129,90";"";"";"";1
+374;1;"Jedwabny krawat w mikrowzór";"TataKobasa";"129,90";"";"";"";1
+375;1;"Jedwabny krawat w mikrowzór";"TataKobasa";"129,90";"";"";"";1
+376;1;"Jedwabny krawat w mikrowzór";"TataKobasa";"129,90";"";"";"";1
+377;1;"Jedwabny krawat w mikrowzór";"TataKobasa";"129,90";"";"";"";1
+378;1;"Jedwabny krawat we wzór paisley";"TataKobasa";"149,90";"";"";"";1
+379;1;"Jedwabny krawat we wzór paisley";"TataKobasa";"149,90";"";"";"";1
+380;1;"Jedwabny krawat we wzór paisley";"TataKobasa";"149,90";"";"";"";1
+381;1;"Jedwabny krawat we wzór paisley";"TataKobasa";"149,90";"";"";"";1
+382;1;"Jedwabny krawat we wzór paisley";"TataKobasa";"149,90";"";"";"";1
+383;1;"Jedwabny krawat we wzór paisley";"TataKobasa";"149,90";"";"";"";1
+384;1;"Jedwabny krawat w kropki";"TataKobasa";"129,90";"";"";"";1
+385;1;"Jedwabny krawat w geometryczny wzór";"TataKobasa";"129,90";"";"";"";1
+386;1;"Jedwabny krawat w geometryczny wzór";"TataKobasa";"99,90";"";"";"";1
+387;1;"Jedwabny krawat w geometryczny wzór";"TataKobasa";"99,90";"";"";"";1
+388;1;"Jedwabny krawat w kratę";"TataKobasa";"99,90";"";"";"";1
+389;1;"Jedwabna mucha w geometryczny wzór";"TataKobasa";"89,90";"";"";"";1
+390;1;"Jedwabna mucha w geometryczny wzór";"TataKobasa";"89,90";"";"";"";1
+391;1;"Jedwabna mucha w kratę";"TataKobasa";"89,90";"";"";"";1
+392;1;"Jedwabna mucha w kratę";"TataKobasa";"89,90";"";"";"";1
+393;1;"Jedwabna mucha we wzór paisley";"TataKobasa";"89,90";"";"";"";1
+394;1;"Jedwabna mucha we wzór paisley";"TataKobasa";"89,90";"";"";"";1
+395;1;"Jedwabna mucha we wzór paisley";"TataKobasa";"89,90";"";"";"";1
+396;1;"Jedwabna mucha we wzór paisley";"TataKobasa";"99,90";"";"";"";1
+397;1;"Jedwabna mucha we wzór paisley";"TataKobasa";"99,90";"";"";"";1
+398;1;"Jedwabna mucha w mikrowzór";"TataKobasa";"99,90";"";"";"";1
+399;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+400;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+401;1;"Jedwabna mucha";"TataKobasa";"119,90";"";"";"";1
+402;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+403;1;"Jedwabna mucha";"TataKobasa";"119,90";"";"";"";1
+404;1;"Jedwabna mucha";"TataKobasa";"119,90";"";"";"";1
+405;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+406;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+407;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+408;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+409;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+410;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+411;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+412;1;"Jedwabna mucha";"TataKobasa";"99,90";"";"";"";1
+413;1;"Pasek z plecionki";"TataKobasa";"99,90";"";"";"";1
+414;1;"Pasek z plecionki";"TataKobasa";"99,90";"";"";"";1
+415;1;"Pasek z plecionki";"TataKobasa";"99,90";"";"";"";1
+416;1;"Pasek z plecionki";"TataKobasa";"99,90";"";"";"";1
+417;1;"Skórzany pasek";"TataKobasa";"129,90";"";"";"";1
+418;1;"Skórzany pasek";"TataKobasa";"149,90";"";"";"";1
+419;1;"Skórzany pasek";"TataKobasa";"149,90";"";"";"";1
+420;1;"Skórzany pasek w diagonalny wzór";"TataKobasa";"129,90";"";"";"";1
+421;1;"Skórzany pasek";"TataKobasa";"149,90";"";"";"";1
+422;1;"Skórzany pasek";"TataKobasa";"129,90";"";"";"";1
+423;1;"Skórzany pasek";"TataKobasa";"149,90";"";"";"";1
+424;1;"Skórzany pasek";"TataKobasa";"149,90";"";"";"";1
+425;1;"Skórzany pasek";"TataKobasa";"149,90";"";"";"";1
+426;1;"Skórzany pasek";"TataKobasa";"149,90";"";"";"";1
+427;1;"Skórzany pasek";"TataKobasa";"149,90";"";"";"";1
+428;1;"Skórzany pasek";"TataKobasa";"149,90";"";"";"";1
+429;1;"Skórzany pasek";"TataKobasa";"199,90";"";"";"";1
+430;1;"Skórzany pasek";"TataKobasa";"199,90";"";"";"";1
+431;1;"Skórzany pasek";"TataKobasa";"199,90";"";"";"";1
+432;1;"Skórzany pasek";"TataKobasa";"199,90";"";"";"";1
+433;1;"Skórzany pasek";"TataKobasa";"99,90";"";"";"";1
+434;1;"Skórzany pasek";"TataKobasa";"119,90";"";"";"";1
+435;1;"VISTULA|PZPN - Skórzany pasek";"TataKobasa";"99,00";"";"";"";1
+436;1;"Dwustronny skórzany pasek";"TataKobasa";"149,00";"";"";"";1
+437;1;"Perfumy Self";"TataKobasa";"199,90";"";"";"";1
+438;1;"Perfumy Black";"TataKobasa";"149,90";"";"";"";1
+439;1;"Perfumy 50ml";"TataKobasa";"149,90";"";"";"";1
+440;1;"Perfumy 50ml";"TataKobasa";"149,90";"";"";"";1
+441;1;"Zestaw portfeli";"TataKobasa";"199,90";"";"";"";1
+442;1;"Skórzany portfel";"TataKobasa";"179,90";"";"";"";1
+443;1;"Skórzany portfel";"TataKobasa";"179,90";"";"";"";1
+444;1;"Skórzany portfel";"TataKobasa";"299,90";"";"";"";1
+445;1;"Skórzany portfel";"TataKobasa";"299,90";"";"";"";1
+446;1;"Skórzany portfel";"TataKobasa";"299,90";"";"";"";1
+447;1;"Skórzany portfel";"TataKobasa";"299,90";"";"";"";1
+448;1;"Skórzany portfel";"TataKobasa";"299,90";"";"";"";1
+449;1;"Skórzany portfel";"TataKobasa";"299,90";"";"";"";1
+450;1;"Skórzany portfel";"TataKobasa";"179,90";"";"";"";1
+451;1;"Skórzany portfel";"TataKobasa";"299,90";"";"";"";1
+452;1;"Skórzany portfel";"TataKobasa";"299,90";"";"";"";1
+453;1;"Skórzany portfel";"TataKobasa";"179,90";"";"";"";1
+454;1;"Skórzany portfel";"TataKobasa";"179,90";"";"";"";1
+455;1;"VISTULA|PZPN - Jedwabna poszetka z logo";"TataKobasa";"149,90";"";"";"";1
+456;1;"Wełniana poszetka w geometryczny wzór";"TataKobasa";"119,90";"";"";"";1
+457;1;"Wełniana poszetka w geometryczny wzór";"TataKobasa";"119,90";"";"";"";1
+458;1;"Jedwabna poszetka w kwiatowy wzór";"TataKobasa";"99,90";"";"";"";1
+459;1;"Jedwabna poszetka w kwiatowy wzór";"TataKobasa";"99,90";"";"";"";1
+460;1;"Wzorzysta poszetka z jedwabiu";"TataKobasa";"99,90";"";"";"";1
+461;1;"Jedwabna poszetka we wzór paisley";"TataKobasa";"99,90";"";"";"";1
+462;1;"Jedwabna poszetka we wzór paisley";"TataKobasa";"99,90";"";"";"";1
+463;1;"Jedwabna poszetka we wzór paisley";"TataKobasa";"99,90";"";"";"";1
+464;1;"Jedwabna poszetka w kwiatowy wzór";"TataKobasa";"99,90";"";"";"";1
+465;1;"Jedwabna poszetka w kwiatowy wzór";"TataKobasa";"99,90";"";"";"";1
+466;1;"Jedwabna poszetka we wzór paisley";"TataKobasa";"99,90";"";"";"";1
+467;1;"Jedwabna poszetka we wzór paisley";"TataKobasa";"99,90";"";"";"";1
+468;1;"Jedwabna poszetka we wzór paisley";"TataKobasa";"99,90";"";"";"";1
+469;1;"Jedwabna poszetka we wzór paisley";"TataKobasa";"99,90";"";"";"";1
+470;1;"Jedwabna poszetka we wzór paisley";"TataKobasa";"99,90";"";"";"";1
+471;1;"Jedwabna poszetka w geometryczny wzór";"TataKobasa";"99,90";"";"";"";1
+472;1;"Jedwabna poszetka w geometryczny wzór";"TataKobasa";"99,90";"";"";"";1
+473;1;"Jedwabna poszetka w geometryczny wzór";"TataKobasa";"99,90";"";"";"";1
+474;1;"Jedwabna poszetka w geometryczny wzór";"TataKobasa";"99,90";"";"";"";1
+475;1;"Jedwabna poszetka";"TataKobasa";"99,90";"";"";"";1
+476;1;"Jedwabna poszetka";"TataKobasa";"99,90";"";"";"";1
+477;1;"Wełniana poszetka";"TataKobasa";"119,90";"";"";"";1
+478;1;"Wełniana poszetka";"TataKobasa";"119,90";"";"";"";1
+479;1;"Skórzane rękawiczki";"TataKobasa";"199,90";"";"";"";1
+480;1;"Skórzane rękawiczki";"TataKobasa";"199,90";"";"";"";1
+481;1;"Skórzane rękawiczki";"TataKobasa";"249,90";"";"";"";1
+482;1;"Skórzane rękawiczki";"TataKobasa";"249,90";"";"";"";1
+483;1;"Skórzane rękawiczki";"TataKobasa";"249,90";"";"";"";1
+484;1;"Skórzane rękawiczki";"TataKobasa";"199,90";"";"";"";1
+485;1;"Skórzane rękawiczki";"TataKobasa";"199,90";"";"";"";1
+486;1;"Skórzane rękawiczki";"TataKobasa";"249,90";"";"";"";1
+487;1;"Skórzane rękawiczki";"TataKobasa";"249,90";"";"";"";1
+488;1;"Skórzane rękawiczki";"TataKobasa";"249,90";"";"";"";1
+489;1;"Skórzane rękawiczki";"TataKobasa";"249,90";"";"";"";1
+490;1;"Skórzane rękawiczki";"TataKobasa";"249,90";"";"";"";1
+491;1;"Skórzane rękawiczki";"TataKobasa";"249,90";"";"";"";1
+492;1;"Skarpety w jodełkę";"TataKobasa";"29,90";"";"";"";1
+493;1;"Skarpety w jodełkę";"TataKobasa";"29,90";"";"";"";1
+494;1;"Skarpety w jodełkę";"TataKobasa";"29,90";"";"";"";1
+495;1;"Skarpety we wzory";"TataKobasa";"29,90";"";"";"";1
+496;1;"Skarpety we wzory";"TataKobasa";"29,90";"";"";"";1
+497;1;"Skarpety we wzory";"TataKobasa";"29,90";"";"";"";1
+498;1;"Skarpety we wzory";"TataKobasa";"29,90";"";"";"";1
+499;1;"Skarpety we wzory";"TataKobasa";"29,90";"";"";"";1
+500;1;"Skarpety w kropki";"TataKobasa";"29,90";"";"";"";1
+501;1;"Skarpety w kropki";"TataKobasa";"29,90";"";"";"";1
+502;1;"Skarpety w kropki";"TataKobasa";"29,90";"";"";"";1
+503;1;"Skarpety we wzory";"TataKobasa";"29,90";"";"";"";1
+504;1;"Skarpety w kropki";"TataKobasa";"29,90";"";"";"";1
+505;1;"Skarpety w kropki";"TataKobasa";"29,90";"";"";"";1
+506;1;"Skarpety we wzory";"TataKobasa";"29,90";"";"";"";1
+507;1;"Skarpety w pepitę";"TataKobasa";"29,90";"";"";"";1
+508;1;"Skarpety w pepitę";"TataKobasa";"29,90";"";"";"";1
+509;1;"Skarpety w pepitę";"TataKobasa";"29,90";"";"";"";1
+510;1;"Skarpety we wzory";"TataKobasa";"29,90";"";"";"";1
+511;1;"Skarpety we wzory";"TataKobasa";"24,90";"";"";"";1
+512;1;"Skarpety we wzory";"TataKobasa";"24,90";"";"";"";1
+513;1;"Skarpety";"TataKobasa";"24,90";"";"";"";1
+514;1;"Skarpety";"TataKobasa";"24,90";"";"";"";1
+515;1;"Skarpety";"TataKobasa";"24,90";"";"";"";1
+516;1;"Spinki do koszuli";"TataKobasa";"129,90";"";"";"";1
+517;1;"Spinki do koszuli";"TataKobasa";"129,90";"";"";"";1
+518;1;"Spinki do koszuli";"TataKobasa";"149,90";"";"";"";1
+519;1;"Spinki do koszuli";"TataKobasa";"129,90";"";"";"";1
+520;1;"Spinki do koszuli";"TataKobasa";"129,90";"";"";"";1
+521;1;"Spinki do koszuli";"TataKobasa";"129,90";"";"";"";1
+522;1;"Spinki do koszuli";"TataKobasa";"99,90";"";"";"";1
+523;1;"Spinki do koszuli";"TataKobasa";"99,90";"";"";"";1
+524;1;"Spinki do koszuli";"TataKobasa";"99,90";"";"";"";1
+525;1;"Spinki do koszuli";"TataKobasa";"149,90";"";"";"";1
+526;1;"Spinki do koszuli";"TataKobasa";"149,90";"";"";"";1
+527;1;"Spinki do koszuli";"TataKobasa";"119,90";"";"";"";1
+528;1;"Spinki do koszuli";"TataKobasa";"119,90";"";"";"";1
+529;1;"Spinki do koszuli";"TataKobasa";"129,90";"";"";"";1
+530;1;"Spinki do koszuli";"TataKobasa";"149,90";"";"";"";1
+531;1;"Spinki do koszuli";"TataKobasa";"149,90";"";"";"";1
+532;1;"Spinki do koszuli";"TataKobasa";"149,90";"";"";"";1
+533;1;"Spinki do koszuli";"TataKobasa";"119,00";"";"";"";1
+534;1;"Spinki do koszuli";"TataKobasa";"99,00";"";"";"";1
+535;1;"Spinki do koszuli";"TataKobasa";"99,00";"";"";"";1
+536;1;"Spinki do koszuli";"TataKobasa";"99,00";"";"";"";1
+537;1;"Spinki do koszuli";"TataKobasa";"99,00";"";"";"";1
+538;1;"Spinki do koszuli";"TataKobasa";"99,00";"";"";"";1
+539;1;"Spinki do koszuli";"TataKobasa";"119,00";"";"";"";1
+540;1;"Wełniany szal";"TataKobasa";"199,90";"";"";"";1
+541;1;"Wełniany szal";"TataKobasa";"199,90";"";"";"";1
+542;1;"Jedwabny szal";"TataKobasa";"249,90";"";"";"";1
+543;1;"Jedwabny szal";"TataKobasa";"249,90";"";"";"";1
+544;1;"Jedwabny szal";"TataKobasa";"249,90";"";"";"";1
+545;1;"Szalik komin";"TataKobasa";"199,90";"";"";"";1
+546;1;"Szalik komin";"TataKobasa";"199,90";"";"";"";1
+547;1;"Szalik komin";"TataKobasa";"199,90";"";"";"";1
+548;1;"Kaszmirowy szal";"TataKobasa";"499,90";"";"";"";1
+549;1;"Kaszmirowy szal";"TataKobasa";"499,90";"";"";"";1
+550;1;"Wełniany szal z domieszką kaszmiru";"TataKobasa";"349,90";"";"";"";1
+551;1;"Wełniany szal z domieszką kaszmiru";"TataKobasa";"349,90";"";"";"";1
+552;1;"Szalik komin";"TataKobasa";"149,90";"";"";"";1
+553;1;"Szalik komin";"TataKobasa";"149,90";"";"";"";1
+554;1;"Szalik komin";"TataKobasa";"149,90";"";"";"";1
+555;1;"Szal";"TataKobasa";"299,90";"";"";"";1
+556;1;"Szal";"TataKobasa";"299,90";"";"";"";1
+557;1;"Szal";"TataKobasa";"299,90";"";"";"";1
+558;1;"Szal";"TataKobasa";"299,90";"";"";"";1
+559;1;"Jedwabny szal w kratę";"TataKobasa";"249,90";"";"";"";1
+560;1;"Jedwabny szal";"TataKobasa";"249,90";"";"";"";1
+561;1;"Wełniany szal";"TataKobasa";"129,90";"";"";"";1
+562;1;"Wełniany szal";"TataKobasa";"129,90";"";"";"";1
+563;1;"Wełniany szal w kratę";"TataKobasa";"199,90";"";"";"";1
+564;1;"Szelki";"TataKobasa";"149,90";"";"";"";1
+565;1;"Szelki";"TataKobasa";"149,90";"";"";"";1
+566;1;"Szelki w diagonalny wzór";"TataKobasa";"99,90";"";"";"";1
+567;1;"Szelki";"TataKobasa";"129,90";"";"";"";1
+568;1;"Szelki";"TataKobasa";"129,90";"";"";"";1
+569;1;"Szelki";"TataKobasa";"149,90";"";"";"";1
+570;1;"Szelki";"TataKobasa";"99,90";"";"";"";1
+571;1;"Szelki";"TataKobasa";"149,90";"";"";"";1
+572;1;"Szelki";"TataKobasa";"149,90";"";"";"";1
+573;1;"Szelki";"TataKobasa";"79,90";"";"";"";1
+574;1;"Szelki";"TataKobasa";"79,00";"";"";"";1
+575;1;"Szelki";"TataKobasa";"99,90";"";"";"";1
+576;1;"Parasol";"TataKobasa";"249,90";"";"";"";1
+577;1;"Parasol";"TataKobasa";"249,90";"";"";"";1
+578;1;"Pas smokingowy";"TataKobasa";"249,90";"";"";"";1
+579;1;"Zapas do rolki czyszczącej do ubrań";"TataKobasa";"19,90";"";"";"";1
+580;1;"Rolka czyszcząca do ubrań";"TataKobasa";"19,90";"";"";"";1
+581;1;"Maseczka ochronna z monogramem";"TataKobasa";"29,90";"";"";"";1
+582;1;"Maseczka ochronna z monogramem";"TataKobasa";"29,90";"";"";"";1
+583;1;"Maseczka ochronna z monogramem";"TataKobasa";"29,90";"";"";"";1
+584;1;"Maseczka ochronna z monogramem";"TataKobasa";"29,90";"";"";"";1
+585;1;"Pokrowiec";"TataKobasa";"29,00";"";"";"";1
+586;1;"Pikowana kurtka puchowa z kapturem";"TataKobasa";"799,90";"";"";"";1
+587;1;"Pikowana kurtka puchowa z kapturem";"TataKobasa";"799,90";"";"";"";1
+588;1;"Pikowana kurtka puchowa";"TataKobasa";"799,90";"";"";"";1
+589;1;"Pikowana kurtka puchowa";"TataKobasa";"799,90";"";"";"";1
+590;1;"Pikowana kurtka puchowa";"TataKobasa";"799,90";"";"";"";1
+591;1;"Puchowa kurtka ze stójką";"TataKobasa";"499,90";"";"";"";1
+592;1;"Dwurzędowy płaszcz w kratę";"TataKobasa";"1499,90";"";"";"";1
+593;1;"Płaszcz z dodatkiem kaszmiru";"TataKobasa";"1299,90";"";"";"";1
+594;1;"Wełniany płaszcz z dodatkiem kaszmiru";"TataKobasa";"1299,90";"";"";"";1
+595;1;"Jednorzędowy płaszcz";"TataKobasa";"999,90";"";"";"";1
+596;1;"Sweter typu round neck z wełny merino";"TataKobasa";"349,90";"";"";"";1
+597;1;"Sweter typu round neck z wełny merino";"TataKobasa";"349,90";"";"";"";1
+598;1;"Strukturalny sweter ze stójką";"TataKobasa";"349,90";"";"";"";1
+599;1;"Sweter ze strukturalnym wzorem";"TataKobasa";"349,90";"";"";"";1
+600;1;"Sweter z kołnierzem polo";"TataKobasa";"249,90";"";"";"";1
+601;1;"Sweter z kołnierzem polo";"TataKobasa";"249,90";"";"";"";1
+602;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+603;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+604;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+605;1;"Golf z wełny merino";"TataKobasa";"349,90";"";"";"";1
+606;1;"Półgolf z krótkim rękawem";"TataKobasa";"199,90";"";"";"";1
+607;1;"Półgolf z krótkim rękawem";"TataKobasa";"199,90";"";"";"";1
+608;1;"Półgolf z prążkowanej dzianiny";"TataKobasa";"249,90";"";"";"";1
+609;1;"Półgolf z prążkowanej dzianiny";"TataKobasa";"249,90";"";"";"";1
+610;1;"Półgolf z prążkowanej dzianiny";"TataKobasa";"249,90";"";"";"";1
+611;1;"Półgolf z prążkowanej dzianiny";"TataKobasa";"249,90";"";"";"";1
+612;1;"Półgolf z krótkim rękawem";"TataKobasa";"199,90";"";"";"";1
+613;1;"Półgolf z krótkim rękawem";"TataKobasa";"199,90";"";"";"";1
+614;1;"Jeansy o kroju slim fit";"TataKobasa";"349,90";"";"";"";1
+615;1;"Jeansy o kroju slim fit";"TataKobasa";"299,90";"";"";"";1
+616;1;"Jeansy o kroju slim fit";"TataKobasa";"299,90";"";"";"";1
+617;1;"Spodnie o kroju slim fit";"TataKobasa";"299,90";"";"";"";1
+618;1;"Wełniane cygaretki w kratę";"TataKobasa";"699,90";"";"";"";1
+619;1;"Spodnie o prostym kroju";"TataKobasa";"599,90";"";"";"";1
+620;1;"Wełniane cygaretki";"TataKobasa";"599,90";"";"";"";1
+621;1;"Wełniane spodnie o prostym kroju z paskiem";"TataKobasa";"599,90";"";"";"";1
+622;1;"Wełniane cygaretki w kratę";"TataKobasa";"699,90";"";"";"";1
+623;1;"Spodnie o prostym kroju";"TataKobasa";"599,90";"";"";"";1
+624;1;"Bluza typu crewneck z haftem";"TataKobasa";"299,90";"";"";"";1
+625;1;"Bluza typu crewneck";"TataKobasa";"249,90";"";"";"";1
+626;1;"Kangurka z kapturem";"TataKobasa";"299,90";"";"";"";1
+627;1;"Kangurka z kapturem";"TataKobasa";"299,90";"";"";"";1
+628;1;"Bluza typu crewneck";"TataKobasa";"249,90";"";"";"";1
+629;1;"Kangurka z kapturem";"TataKobasa";"299,90";"";"";"";1
+630;1;"Kangurka z kapturem";"TataKobasa";"299,90";"";"";"";1
+631;1;"Spodnie z prążkowanej dzianiny";"TataKobasa";"349,90";"";"";"";1
+632;1;"Sukienka z prążkowanej dzianiny";"TataKobasa";"349,90";"";"";"";1
+633;1;"Bluza typu crewneck z haftem";"TataKobasa";"299,90";"";"";"";1
+634;1;"Joggery z dzianiny dresowej";"TataKobasa";"279,90";"";"";"";1
+635;1;"Kangurka z kapturem";"TataKobasa";"299,90";"";"";"";1
+636;1;"Bluza typu crewneck";"TataKobasa";"249,90";"";"";"";1
+637;1;"Joggery z dzianiny dresowej";"TataKobasa";"279,90";"";"";"";1
+638;1;"Kangurka z kapturem";"TataKobasa";"299,90";"";"";"";1
+639;1;"Bluza typu crewneck";"TataKobasa";"249,90";"";"";"";1
+640;1;"Joggery z dzianiny dresowej";"TataKobasa";"279,90";"";"";"";1
+641;1;"Spodnie z prążkowanej dzianiny";"TataKobasa";"349,90";"";"";"";1
+642;1;"Joggery z dzianiny dresowej";"TataKobasa";"279,90";"";"";"";1
+643;1;"Joggery z dzianiny dresowej";"TataKobasa";"279,90";"";"";"";1
+644;1;"Joggery z dzianiny dresowej";"TataKobasa";"279,90";"";"";"";1
+645;1;"Wełniana marynarka slim fit w kratę";"TataKobasa";"1199,90";"";"";"";1
+646;1;"Marynarka slim fit wiązana w talii";"TataKobasa";"1099,90";"";"";"";1
+647;1;"Marynarka o kroju slim fit w kratę";"TataKobasa";"999,90";"";"";"";1
+648;1;"Wełniana marynarka o kroju slim fit";"TataKobasa";"999,90";"";"";"";1
+649;1;"Wełniana marynarka o kroju slim fit";"TataKobasa";"999,90";"";"";"";1
+650;1;"Wełniana marynarka o kroju regular";"TataKobasa";"1099,90";"";"";"";1
+651;1;"Wełniana marynarka o kroju regular";"TataKobasa";"1199,90";"";"";"";1
+652;1;"Wełniana spódnica ołówkowa";"TataKobasa";"399,90";"";"";"";1
+653;1;"Wełniane cygaretki w kratę";"TataKobasa";"699,90";"";"";"";1
+654;1;"Spodnie o prostym kroju";"TataKobasa";"599,90";"";"";"";1
+655;1;"Wełniane cygaretki";"TataKobasa";"599,90";"";"";"";1
+656;1;"Wełniane spodnie o prostym kroju z paskiem";"TataKobasa";"599,90";"";"";"";1
+657;1;"Spodnie o prostym kroju";"TataKobasa";"599,90";"";"";"";1
+658;1;"Wełniane cygaretki w kratę";"TataKobasa";"699,90";"";"";"";1
+659;1;"Wełniana marynarka slim fit w kratę";"TataKobasa";"1199,90";"";"";"";1
+660;1;"Marynarka slim fit wiązana w talii";"TataKobasa";"1099,90";"";"";"";1
+661;1;"Marynarka o kroju slim fit w kratę";"TataKobasa";"999,90";"";"";"";1
+662;1;"Wełniana marynarka o kroju slim fit";"TataKobasa";"999,90";"";"";"";1
+663;1;"Wełniana marynarka o kroju slim fit";"TataKobasa";"999,90";"";"";"";1
+664;1;"Wełniana marynarka o kroju regular";"TataKobasa";"1099,90";"";"";"";1
+665;1;"Wełniana marynarka o kroju regular";"TataKobasa";"1199,90";"";"";"";1
+666;1;"Koszula z kieszonką";"TataKobasa";"349,90";"";"";"";1
+667;1;"Koszula z kieszonką";"TataKobasa";"399,90";"";"";"";1
+668;1;"Koszula z kieszonką";"TataKobasa";"399,90";"";"";"";1
+669;1;"Jedwabna bluzka";"TataKobasa";"499,90";"";"";"";1
+670;1;"Bluzka z gładkiej tkaniny";"TataKobasa";"399,90";"";"";"";1
+671;1;"Bluzka z gładkiej tkaniny";"TataKobasa";"399,90";"";"";"";1
+672;1;"Bluzka z połyskującej tkaniny";"TataKobasa";"399,90";"";"";"";1
+673;1;"Bluzka z zapięciem";"TataKobasa";"299,90";"";"";"";1
+674;1;"Bluzka z zapięciem";"TataKobasa";"349,90";"";"";"";1
+675;1;"Wełniana sukienka w kratę";"TataKobasa";"799,90";"";"";"";1
+676;1;"Zwiewna sukienka";"TataKobasa";"899,90";"";"";"";1
+677;1;"Sukienka z prążkowanej dzianiny";"TataKobasa";"349,90";"";"";"";1
+678;1;"Sukienka o kroju marynarki";"TataKobasa";"999,90";"";"";"";1
+679;1;"Sukienka z prążkowanej dzianiny";"TataKobasa";"349,90";"";"";"";1
+680;1;"Skórzane buty na obcasie";"TataKobasa";"499,90";"";"";"";1
+681;1;"Skórzane loafersy";"TataKobasa";"599,90";"";"";"";1
+682;1;"Skórzane kozaki";"TataKobasa";"999,90";"";"";"";1
+683;1;"Skórzane kozaki";"TataKobasa";"999,90";"";"";"";1
+684;1;"Skórzane botki";"TataKobasa";"699,90";"";"";"";1
+685;1;"Skórzana torebka";"TataKobasa";"699,90";"";"";"";1
+686;1;"Skórzana torebka";"TataKobasa";"699,90";"";"";"";1
+687;1;"Skórzany pasek";"TataKobasa";"129,90";"";"";"";1
+688;1;"Skórzany pasek";"TataKobasa";"149,90";"";"";"";1
+689;1;"Czapka";"TataKobasa";"179,90";"";"";"";1
+690;1;"Skórzane rękawiczki";"TataKobasa";"199,90";"";"";"";1
