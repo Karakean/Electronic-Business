@@ -1,0 +1,39 @@
+version: '3.8'
+services:
+  be_184865_db:
+    image: mariadb
+    container_name: be_184865_db
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: dlugierozdzkidb
+    restart: always
+#    volumes:
+#      - ./dbinit:/docker-entrypoint-initdb.d
+    ports:
+      - 3306:3306
+  be_184865_prestashop:
+#    image: prestashop/prestashop:8.0.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: be_184865_prestashop
+    depends_on:
+      - be_184865_db
+#        condition: service_completed_successfully
+    ports:
+      - 80:80
+      - 443:443
+    environment:
+      PS_INSTALL_AUTO: 0
+      PS_ERASE_DB: 0
+      PS_FOLDER_ADMIN: amdin
+      DB_SERVER: be_184865_db
+      DB_USER: root
+      DB_PASSWD: root
+      DB_NAME: dlugierozdzkidb
+      PS_DEV_MODE: 0
+      PS_ADMIN_FOLDER: adminpanel
+      PS_DOMAIN: localhost:80
+    restart: always
+#    volumes:
+#      - ${PWD}/app:/var/www/html:rw
