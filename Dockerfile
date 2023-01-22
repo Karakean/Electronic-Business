@@ -24,8 +24,9 @@ RUN ln -s /etc/apache2/sites-available/default-ssl.conf /etc/apache2/sites-enabl
 #COPY ssl/000-default.conf /etc/apache2/sites-available/000-default.conf
 #COPY ssl/apache-selfsigned.crt /etc/ssl/certs/apache-selfsigned.crt
 #COPY ssl/apache-selfsigned.key /etc/ssl/private/apache-selfsigned.key
-COPY selenium/photo_import /var/www/html/img/products
-COPY parameters.php /var/www/html/app/config/parameters.php
+#COPY selenium/photo_import /var/www/html/img/products
+#COPY parameters.php /var/www/html/app/config/parameters.php
+#RUN rm -rf /var/www/html/var/cache/prod/*
 RUN a2enmod ssl
 #RUN a2enmod rewrite
 RUN chmod -R 777 /var/www/html

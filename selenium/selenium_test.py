@@ -6,6 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.common.exceptions import TimeoutException
+#from selenium.webdriver import FirefoxOptions
 from time import sleep
 
 def wait_for(type, name, delay):
@@ -17,8 +18,9 @@ def wait_for(type, name, delay):
     raise
 
 faker = Faker('PL')
-
-driver = webdriver.Firefox()
+#opts = FirefoxOptions()
+#opts.add_argument("--headless")
+driver = webdriver.Firefox() #options=opts)
 driver.maximize_window()
 
 driver.get("https://localhost")
@@ -79,7 +81,7 @@ driver.back()
 sleep(1)
 #other category
 
-driver.find_element(By.ID, "category-147").click()
+driver.find_element(By.ID, "category-56").click()
 driver.find_element(By.CLASS_NAME, "subcategory-image").click()
 products = driver.find_elements(By.CLASS_NAME, "thumbnail-top")
 

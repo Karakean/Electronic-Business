@@ -12,7 +12,7 @@ use Twig\Sandbox\SecurityNotAllowedFunctionError;
 use Twig\Source;
 use Twig\Template;
 
-/* @PrestaShop/Admin/TwigTemplateForm/form_max_length.html.twig */
+/* @Twig/form_max_length.html.twig */
 class __TwigTemplate_4831dfd142e2dcc174afcace33fbf80c extends Template
 {
     private $source;
@@ -71,7 +71,7 @@ class __TwigTemplate_4831dfd142e2dcc174afcace33fbf80c extends Template
 
     public function getTemplateName()
     {
-        return "@PrestaShop/Admin/TwigTemplateForm/form_max_length.html.twig";
+        return "@Twig/form_max_length.html.twig";
     }
 
     public function isTraitable()
@@ -86,6 +86,6 @@ class __TwigTemplate_4831dfd142e2dcc174afcace33fbf80c extends Template
 
     public function getSourceContext()
     {
-        return new Source("", "@PrestaShop/Admin/TwigTemplateForm/form_max_length.html.twig", "/var/www/html/src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/form_max_length.html.twig");
+        return new Source("", "@Twig/form_max_length.html.twig", "/var/www/html/src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/form_max_length.html.twig");
     }
 }
