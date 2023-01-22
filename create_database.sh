@@ -12,4 +12,3 @@ docker exec -it be_184865_db mysql -p$DB_ROOT_PASSWORD -e "CREATE USER IF NOT EX
 docker exec -it be_184865_db mysql -p$DB_ROOT_PASSWORD  -e "GRANT ALL PRIVILEGES ON ${DB_NAME}.* TO '${DB_USER}'@'%';"
 docker exec -it be_184865_db mysql -p$DB_ROOT_PASSWORD  -e "FLUSH PRIVILEGES;"
 docker exec -i be_184865_db mysql -p$DB_ROOT_PASSWORD $DB_NAME < $DUMP_FILE
-#docker exec be_184865_prestashop rm -rf /var/www/html/install

@@ -8,7 +8,6 @@ RUN echo extension=memcached.so >> /usr/local/etc/php/conf.d/memcached.ini
 
 RUN rm -r /var/www/html/*
 COPY prestashop /var/www/html
-COPY init_prestashop.sh /var/www/html/init_prestashop.sh
 
 COPY ssl /etc/ssl/dlugierozdzki
 COPY default-ssl.conf /etc/apache2/sites-available/default-ssl.conf
