@@ -1,5 +1,0 @@
-mkdir: cannot create directory '/run/user/0': Permission denied
-1674398999275	geckodriver	INFO	Listening on 127.0.0.1:33339
-1674398999466	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5V6I5x"
-Authorization required, but no authorization protocol specified
-Error: cannot open display: :0
